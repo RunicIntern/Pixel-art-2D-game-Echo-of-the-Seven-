@@ -146,26 +146,31 @@ Strongly affected by the Domain of Change and runic storm zones.
 
 ---
 
-# 7. Ghouls / The Fallen  
-**Dominant regions:** Cataclysm-scarred zones  
-**Common deity:** Umbros (often heretical cults)  
-**Theme:** tragic, unstable, temporally scarred
+# 7. Undead  
+Dominant regions: shadowlands, ruined kingdoms, echo-scarred battlefields  
+Common deity: Aerendel (Shadow), Mel’Thar (Echo)  
+Theme: death-born resilience, fragmented identity, dark rebirth
 
-### Description
-Ghouls are not undead.  
-They are victims of temporal distortion — beings trapped between “now” and decay.
+Description  
+Unlike the Fallen, Undead are true revenants — beings who have died physically, yet returned through shadow magic, necromantic rituals or echo-bound resurrection.  
+They walk the world in preserved, decayed or partially reconstructed bodies, sustained by lingering death essence.
 
-They possess:
+Undead may retain fragments of memory, personality, or emotional echoes of who they once were.  
+Some cling to sanity. Others drift through half-remembered impulses. A few rise as powerful echo-touched warriors or spellcasters.
 
-- extreme resilience,  
-- disrupted pain response,  
-- visible time-warp mutations,  
-- fragmented memories.
+Key traits:  
+- resistance to poison, disease and physical decay  
+- no natural metabolism  
+- darkvision and heightened sense in low-light  
+- unique spiritual resonance  
+- weakened by holy magic  
+- distrusted or feared by many mortals  
 
-They are feared, pitied, and misunderstood.
+Origin  
+Undead arise wherever death magic pooled after the Runic Cataclysm.  
+Battlefields drenched in echo residue, collapsed necropolises, cursed temples and shadow-infested ruins often become birthplaces of new revenants.
 
-### Origin
-Temporal anomalies born from the fractured Domain of Time.
+Though feared, many Undead seek purpose — a second life, a lost memory, or a deity who will accept them despite what they have become.
 
 ---
 
