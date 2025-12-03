@@ -2,247 +2,229 @@
 ### Unique Class Actions for Tier 1 & Tier 2 Classes  
 ### Echo of the Seven – Gameplay Mechanics
 
-This document lists all **non-combat, exploration-focused special abilities** that each class unlocks.  
-These actions define the identity of each class outside battle and are crucial for exploration, secrets, puzzles, lore interaction and dungeon progression.
+This document lists all non-combat, exploration-focused special abilities that each class unlocks.  
+These actions define class identity outside battle and are crucial for exploration, secrets, puzzles, lore interaction and dungeon progression.
 
 They scale **not with character level**, but with **mastery, use count or class evolution**.
 
----
 
 # 🟦 TIER 1 – UNIQUE CLASS ACTIONS  
 Each base class has one exploration ability available from Level 1.
 
----
+These skills create identity, utility and unique value for every class outside combat.
 
 ## 🗡 Rogue — **Lockpicking & Trap Disarming**
 Rogue can open locks and disable traps others cannot.
 
-**Tier Progression by Use Count:**  
-- Tier 1 → unlocked default  
+### Tier Progression by Use Count:
+- Tier 1 → unlocked by default  
 - Tier 2 → 100 uses  
 - Tier 3 → 500 uses  
 - Tier 4 → 3000 uses  
 
-**Effects:**  
-- Open locked chests (T1–T4)  
-- Open sealed doors  
-- Disable mechanical & magical traps  
+### Effects:
+- Opens locked chests (T1–T4)  
+- Opens sealed or ancient doors  
+- Disables mechanical and magical traps  
 
-**Other Classes:**  
+### Other Classes:
 Can learn a weak “magic lockpick” version from a rare NPC.  
 Cooldown → 1 hour. Max Tier → 2.
 
----
 
 ## 🔮 Mage — **Teleportation to Discovered Realms**
-Mage can create small rifts to teleport to places previously visited.
+Mage can create small rifts to teleport to previously visited locations.
 
-**Effects:**  
+### Effects:
 - Teleport to cities, obelisks, leyline nodes  
-- Reduced cast time with mastery  
-- Enhanced accuracy with runes  
-- Eventually → party teleport (high tiers)
+- Faster cast time with mastery  
+- Increased accuracy with runes  
+- Tier 4 → party-wide teleportation  
 
-**Other Classes:**  
-Scrolls & obelisks only — no free teleportation.
+### Other Classes:
+Can only use teleport scrolls, portals or obelisks.
 
----
 
-## 🍃 Shaman — **Spirit Sight & Ancestral Dialogue**
-Shaman sees and speaks with spirits, ghosts and echoes.
+## ✨ Priest — **Divine Benediction**
+Priest performs small holy rituals that purify items and receive guidance from their deity.
 
-**Effects:**  
-- Reveals ghost NPCs  
-- Reads “memory fragments”  
-- Uncovers hidden lore  
-- Unlocks alternate quest dialogues  
-- Opens spirit-only tunnels in ruins
+### Effects:
+- **Purify Food:** Removes “spoiled” status from food.  
+- **Sanctify Water:** Turns dirty water into clean drinking water.  
+- **Bless Small Items:** Reveals hidden “echo imprints” on quest items.  
+- **Pray at Shrines:**  
+  - Provides subtle hints toward nearby secrets, puzzles or correct directions.  
+  - Hints vary depending on the deity followed.
 
-**Other Classes:**  
-No access except extremely rare items.
+### Scaling:
+- Higher Wisdom → stronger purification.  
+- Higher Faith mastery → clearer shrine hints.  
+- LUM / MEL / VAEL → unlock special shrine interactions.
 
----
 
 ## 🛡 Warrior — **Brute Force / Breaking Barriers**
-Warrior can destroy weakened structures and blocked tunnels.
+Warrior destroys weakened structures through sheer physical power.
 
-**Effects:**  
-- Break wooden/stone barriers  
-- Collapse rubble blocking passages  
-- Open shortcuts  
-- Crush reinforced walls (high tier)
+### Effects:
+- Break wooden or stone barriers  
+- Clear collapsed passages  
+- Open hidden shortcuts  
+- Smash reinforced walls (higher tiers)
 
-**Other Classes:**  
-None without explosives.
+### Other Classes:
+Cannot break physical barriers without explosives.
 
----
 
 ## 🏹 Hunter — **Tracking & Foraging Mastery**
 Hunter reads tracks and senses wildlife patterns.
 
-**Effects:**  
-- Track beasts & monsters  
-- Reveal hidden monster lairs  
+### Effects:
+- Track beasts, monsters and rare animals  
+- Reveal hidden lairs  
 - Detect elite enemies  
-- Forage rare herbs & spirit essences  
-- Predict ambushes
+- Find rare herbs & spirit essences  
+- Predict ambushes  
 
-**Scaling:**  
-More accurate & farther tracking over time.
+### Scaling:
+Tracking improves with continuous use and runic synergy.
 
----
 
 # 🟥 TIER 2 – UNIQUE CLASS ACTIONS  
-Unlocked when a character reaches Level 10 and evolves into one of the hybrid classes.
+Unlocked when a character reaches **Level 10** and evolves into a hybrid class.
 
----
+These actions drastically deepen exploration and puzzle-solving potential.
+
 
 ## 🛡 Paladin — **Lumi-Seal Purge**
-Purifies corrupted runic seals.
+Purifies corrupted runic seals and holy barriers.
 
-**Effects:**  
+### Effects:
 - Destroy corruption seals  
 - Open holy vaults  
 - Cleanse corrupted pathways  
 - Cure NPC afflictions  
 - Activate ancient holy mechanisms
 
----
 
 ## ⚡ Spellblade — **Rift Slash**
-Cuts thin space-layers, creating temporary micro-rifts.
+Cuts thin layers of reality, creating temporary micro-rifts.
 
-**Effects:**  
+### Effects:
 - Open dimensional shortcuts  
-- Reveal hidden path fragments  
-- Access small rift-only rooms  
-- Skip certain dungeon obstacles  
+- Reveal hidden phase paths  
+- Access rift-only chambers  
+- Skip selected dungeon obstacles  
 
-**Cooldown:** 30–45 min (powerful action)
+### Cooldown:
+30–45 minutes (powerful ability)
 
----
 
 ## 💢 Berserker — **Blood Frenzy Surge**
-Activates “blood echo altars” connected to ancient battles.
+Activates ancient “blood echo altars” linked to past battles.
 
-**Effects:**  
+### Effects:
 - Open Blood Gates  
 - Reveal rage-forged pathways  
 - Unlock combat challenge arenas  
-- Strengthened by current fury level  
+- Enhance nearby combat echoes  
 
----
 
 ## 🏹 Warden — **Beast Channel**
 Reads the memories of nearby animals.
 
-**Effects:**  
-- Reveal enemy movement patterns  
-- Identify boss lairs  
+### Effects:
+- Reveal boss movement patterns  
+- Identify monster lairs  
 - Discover natural shortcuts  
-- Learn “wild secrets” of certain zones  
-- Later → commune with magical beasts  
+- Uncover wildlife-based secrets  
+- Commune with magical beasts (higher tiers)
 
----
 
 ## 🔮 Oracle — **Echo Foresight**
-Sees brief visions of future events or environmental danger.
+Sees echoes of future events or upcoming danger.
 
-**Effects:**  
-- Shows puzzle solutions  
-- Reveals which doors are illusions  
-- Predicts trap activations  
-- Shows path danger states  
-- Displays “future outlines” of NPCs  
+### Effects:
+- Show puzzle solutions  
+- Reveal illusion doors  
+- Predict trap activations  
+- Show danger levels of paths  
+- Display “future outlines” of NPC behavior  
 
-**Scaling:**  
-- +Duration  
-- +Range  
-- +Area foresight  
-- Tier 4 → alternate timelines preview
+### Scaling:
+Tier 4 → glimpses of alternate timelines.
 
----
 
 ## 🎯 Arcane Archer — **Elemental Mark**
 Marks distant targets or objects with elemental runes.
 
-**Effects:**  
-- Activate remote switches  
+### Effects:
+- Activate remote mechanisms  
 - Ignite distant torches  
 - Freeze barriers  
-- Conduct lightning to mechanisms  
-- Break runic seals from range  
+- Conduct lightning to locks  
+- Break runic seals from afar  
 
-**Scaling:**  
-Higher tiers unlock multi-mark combos.
+### Scaling:
+Multi-mark elemental combos unlock at higher tiers.
 
----
 
 ## 🗡🔥 Battlemage — **Forge Surge**
-Manipulates metal using heat and spatial force.
+Manipulates metal using fire and spatial magic.
 
-**Effects:**  
-- Bend iron bars  
-- Burn open locks  
-- Pull metal items  
-- Lift/lower metal bridges  
-- Manipulate runic machinery  
+### Effects:
+- Bend metal bars  
+- Burn open reinforced locks  
+- Pull metal items from afar  
+- Operate runic machinery  
+- Manipulate iron bridges and mechanisms  
 
----
 
-## 🍃🌀 Shaman (Tier 2 Shaman) — **Spirit Walk**
-Steps into a semi-astral state and moves through thin barriers.
+## 🍃🌀 Shaman (Tier 2 Mutated Class) — **Spirit Walk**
+Enters a semi-astral state to traverse thin barriers and echo-tunnels.
 
-**Effects:**  
-- Enter spirit tunnels  
-- Access hidden chambers  
+### Effects:
+- Access spirit tunnels  
+- Enter hidden echo chambers  
 - Traverse echo-realms  
 - Speak to echo versions of bosses  
 - Reveal memory-visions of locations  
 
-**Scaling:**  
-Higher tiers allow longer astral corridors and deeper echo-realms.
+### Scaling:
+Higher tiers → deeper astral corridors and powerful echo interactions.
 
----
 
 ## 🗡🏹 Assassin Ranger — **Shadow Tracking**
-Tracks not just animals, but monsters, spirits, and people.
+Tracks monsters, spirits, invisible NPCs and echo signatures.
 
-**Effects:**  
-- Follow blood trails  
-- Track invisible NPCs  
-- Reveal rogue-only pathways  
+### Effects:
+- Reveal blood trails  
+- Track invisible enemies  
+- Discover rogue-only paths  
 - Predict elite spawn patterns  
-- Locate assassins, thieves, etc.
+- Follow NPC fugitives and assassins  
 
----
 
 ## 🏹🍃 Spirit Ranger — **Echo Harmony**
-Can listen to echoes from long distances.
+Listens to distant echoes and spiritual vibrations.
 
-**Effects:**  
+### Effects:
 - Detect far-off boss roars  
-- Predict world-events  
-- Find rare spirit creatures  
-- Hear “whispers” of past battles  
-- Trigger echo-backed side quests  
+- Predict world events  
+- Sense rare spirit creatures  
+- Hear echoes of ancient battles  
+- Trigger echo-based secret quests  
 
----
 
 # 🧩 Summary
-**Special Class Skills** expand exploration and give every class a **unique purpose** beyond combat.  
-They ensure:
+
+**Special Class Skills** define the exploration identity of each class outside combat.  
+They support:
 
 - replayability,  
-- identity,  
-- exploration depth,  
-- alternative quest routes,  
-- puzzle variety,  
-- hidden path diversity,  
-- dungeon complexity,  
-- real party synergy.
+- puzzle diversity,  
+- unique class utility,  
+- party synergy,  
+- secret hunting,  
+- world immersion.
 
-These skills are a core pillar of Echo of the Seven’s world design.
-
----
-
+These abilities are a core pillar of Echo of the Seven’s world design.
