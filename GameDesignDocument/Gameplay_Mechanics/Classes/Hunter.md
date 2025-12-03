@@ -71,7 +71,7 @@ Example conversions:
 Every race can play Hunter well, but standouts include:
 
 ### ⭐ **Dwarf**  
-Natural connection to traps, engineering, durability — your WoW nostalgia lives on!
+Natural connection to traps, engineering, durability.
 
 ### ⭐ **Elf**  
 Fastest attack animations, best synergy with wind runes.
