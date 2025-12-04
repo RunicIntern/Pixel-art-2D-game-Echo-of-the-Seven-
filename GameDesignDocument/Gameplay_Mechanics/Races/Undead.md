@@ -1,33 +1,33 @@
 # Undead – Technical Race Overview  
 ### Echo of the Seven – Gameplay Mechanics
 
-The Undead are beings who have died physically but returned through shadow-bound magic, necromantic echo, or corrupted runic rituals. They are not living creatures — their bodies are preserved by lingering essence, death-magic or echo resonance.
+Undead are revenants who died physically but returned through shadow magic, necromancy or echo-bound resurrection.  
+They do not live — they persist. Their bodies are sustained by dark essence and fractured memory.
 
-Undead are not monsters by default; many retain fragments of memory, identity and purpose. Some join mortal societies, others wander as outcasts. Their origin varies, but their existence breaks natural law.
+Undead gameplay focuses on resilience, shadow synergy and identity through loss.
 
 ---
 
-# 🧬 1. Racial Fantasy  
-Undead resemble classic “Forsaken-like” beings:
+# 🧬 1. Racial Fantasy
+Undead are:
 
-- pale or decayed skin  
-- exposed bone fragments (depending on origin)  
-- glowing eyes (shadow or echo-based)  
-- stiff movement or unnaturally fluid (depending on magic)  
-- lack of natural vitality but strength granted by death-magic  
+- cold, pale, partially decayed or magically reconstructed  
+- immune to mortal weaknesses  
+- spiritually sensitive  
+- resistant to corruption  
+- feared but powerful  
 
-Lore-wise, they fit perfectly into darker regions, cursed ruins, shadow temples and echo-warped locations.
+They walk the world searching for purpose — or fragments of who they once were.
 
 ---
 
 # 🟦 2. Core Racial Traits
 
 ## **Deathless Flesh**
-- +50% resistance to **Poison**, **Disease**, **Bleed**  
-- immune to “starvation” debuff  
-- immune to “thirst” debuff  
-- takes -20% damage from Shadow magic  
-- takes +15% damage from Holy magic  
+- +50% resistance: Poison, Disease, Bleed  
+- immune to starvation & thirst  
+- -20% Shadow damage taken  
+- +15% Holy damage taken  
 
 ## **No Metabolism**
 Undead do not require:
@@ -35,140 +35,94 @@ Undead do not require:
 - water  
 - sleep  
 
-But they may require:
-- *shadow essence*,  
-- *echo residue*,  
-- or *runic catalysts* to sustain themselves (optional future mechanic).
+(They may require rare “shadow essence” in future endgame systems.)
 
 ## **Darkvision**
-- Sees clearly in low-light environments  
-- +25% improved detection of traps, hidden entities and undead creatures at night
+- Perfect vision in darkness  
+- +25% detection vs undead, spirits and shadow anomalies
 
 ---
 
-# 🟧 3. Racial Passives (always active)
+# 🟧 3. Racial Passives
 
-### **Echo Memory**
-Undead can sometimes “remember” fragments of their past lives.
-Effect:
-- +5% experience gain from ancient ruins, graveyards, crypts  
-- opens unique dialogue lines with shadow NPCs  
-- unlocks special side-quests tied to “who they were before death”
+## **Echo Memory**
+- +5% XP from ruins, crypts, shadow zones  
+- unique dialogue options  
+- grants special quests based on past-life echoes  
 
-### **Necrotic Endurance**
-- +5% max health  
-- cannot be reduced below 1 HP by bleeding or poison DoTs  
-- recovers 1% HP when standing in shadow or corrupted terrain
+## **Necrotic Endurance**
+- +5% max HP  
+- cannot drop below 1 HP from Bleed/Poison  
+- regenerates 1% HP per 10 seconds in shadowed areas
 
 ---
 
-# 🟪 4. Racial Weaknesses (to maintain balance)
+# 🟥 4. Racial Weaknesses
+## **Holy Vulnerability**
+- +15% damage from Light/Holy  
+- healing received -10%  
 
-### **Holy Vulnerability**
-- +15% damage taken from Light / Holy sources  
-- healing spells on Undead have **-10% effectiveness**  
-(Priests and Paladins react differently to them in lore + gameplay)
-
-### **Unsettling Presence**
-Some NPCs distrust Undead by default:
-- prices in human towns: +5%  
-- reputation gain slightly slower in holy regions  
-- some holy shrines refuse interaction until purified/atoned
+## **Unsettling Presence**
+- +5% shop prices in holy/human regions  
+- reduced reputation gain in consecrated cities
 
 ---
 
 # 🟩 5. Class Synergies
 
-## **Strong Synergies**
-- **Oracle**  
-  *Echo resonance greatly enhances foresight.*  
-- **Rogue / Assassin**  
-  Undead are silent, light, unaffected by pain.  
-- **Shaman**  
-  They exist half in the spirit world already.  
-- **Battlemage**  
-  Bone + metal manipulation works well.  
-- **Spirit Ranger**  
-  They hear echoes easily.
+### Best synergy:
+- Oracle  
+- Rogue / Assassin  
+- Shaman  
+- Battlemage  
+- Spirit Ranger  
 
-## **Neutral Synergies**
+### Neutral synergy:
 - Mage  
 - Hunter  
 - Warrior  
 
-## **Weak Synergy / Antisynergy**
-- **Priest** (holy magic is unstable on them)  
-- **Paladin** (lore conflict + holy backlash)
+### Antisynergy:
+- Priest  
+- Paladin  
 
 ---
 
-# 🟫 6. Runic Synergies
+# 🟪 6. Runic Synergy
 
-Undead naturally resonate with:
+## **Shadow Runes (SHA, UMB, TYR)**
+- -15% shatter chance  
+- +10% DoT effectiveness  
+- +5% cooldown reduction  
 
-### ✔ **Shadow Runes**
-- SHA  
-- UMB  
-- TYR  
-
-Effect:
-- -15% chance of rune shattering when crafting shadow-based runes  
-- +10% effectiveness of shadow DoTs  
-- +5% cooldown reduction on shadow rune activations
-
-### ✔ **Echo Runes**
-- MEL  
-- AER  
-- NAL  
-
-Effect:
-- special interactions with Oracle and Shaman  
-- unique “memory-based” rune words  
-- higher efficiency in corrupted zones
+## **Echo Runes (MEL, AER, NAL)**
+- enhanced Oracle/Shaman interactions  
+- ambient buffs in corrupted areas  
 
 ---
 
-# 🟧 7. Regional Synergies
-
-Undead excel in regions with:
-
-- corruption  
-- shade  
-- old ruins  
+# 🟫 7. Regional Synergy
+Undead excel in:
 - crypts  
-- battlefields  
-- echo-heavy areas  
+- ruins  
+- shadowlands  
+- echo-scarred battlefields  
 
-They struggle in:
-- holy places  
-- sun-blessed cities  
-- consecrated temples
-
----
-
-# 🟨 8. Starting Zone (proposed)
-
-### **The Hollow Warrens**  
-A half-collapsed necropolis filled with echo spirits, bone remnants and ancient statues.  
-Tutorial zone introduces:
-
-- Undead physiology  
-- shadow magic events  
-- interactions with Oracle NPCs  
-- early echo-memory quests  
+Struggle in:
+- holy sanctuaries  
+- sun-blessed cities
 
 ---
 
-# 🟫 9. Future Expansion Hooks
-
-- “Who was I before death?” story arc  
-- special mount: Bone Warhound  
-- necromancer class synergy questline  
-- ability to mask undead appearance temporarily  
-- advanced racial evolution: **“Wraithbound”** or **“Boneforged”**
+# 🟨 8. Starting Zone
+## **The Hollow Warrens**
+Tutorial for:
+- shadow mechanics  
+- echo questlines  
+- identity fragments  
+- lore revelations  
 
 ---
 
-# 🧩 Summary  
-Undead are a dark, intelligent race with a mixture of shadow resilience, spiritual sensitivity and deathbound endurance. They offer a unique gameplay loop and distinct identity without overlapping with Fallen (reserved for future endgame design).
-
+# 🧩 Summary
+Undead are a powerful, flavorful race offering resilience, shadow synergy and unique narrative interactions without overlapping with Fallen creatures (reserved for future endgame content).
