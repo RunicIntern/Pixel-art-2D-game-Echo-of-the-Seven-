@@ -62,7 +62,6 @@ Dwarves handle firearms with lethal precision.
 **+2% Critical Chance when using Rifles, Muskets and Blackpowder Shotguns**  
 (no bonus for bows or crossbows)
 
-This is the premium racial bonus you mentioned — now it’s OFFICIAL.
 
 ---
 
