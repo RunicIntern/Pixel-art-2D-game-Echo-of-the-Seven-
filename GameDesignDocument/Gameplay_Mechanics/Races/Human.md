@@ -1,46 +1,85 @@
-# Human — Technical Profile
+# Human – Racial Traits (Balanced RPG Version)
+*Echo of the Seven – Gameplay Mechanics*
 
-## Overview
-Humans are the most adaptable race in Aurion. Their animations, proportions and movement ranges are the baseline reference for all humanoid rigging.
-
----
-
-## Body & Animation
-- Height: medium (100% baseline)
-- Build: balanced, slight variations allowed
-- Sprite scale: standard
-- Movement speed: 100% baseline
-- Idle stance: upright, neutral
-- Attack animations: versatile (can hold any weapon type naturally)
+Humans are defined by adaptability, ambition, diplomacy and remarkable learning speed.  
+They lack the innate strengths of other races, but compensate with versatility, culture and rapid mastery of skills.
 
 ---
 
-## Visual Identity
-- Clothing style: cloth, leather, mixed materials
-- Architecture inspiration: medieval European with runic influences
-- Colour themes: whites, browns, muted metals, sky-blue accents
+# ⚔️ 1. Combat Flavour Bonus
+
+### **Adaptive Instinct**
+- **+1% Global Critical Chance**  
+  (applies to any weapon type, including melee, ranged and firearms)
+
+**Notes:**
+- This is the smallest combat bonus among all races.
+- It reinforces the fantasy that humans "excel through practice," not natural gifts.
+- Does not stack with class-specific crit modifiers.
 
 ---
 
-## Cultural Markers
-- Most diverse cities and professions
-- Common in trade hubs and cross-regional settlements
-- Strong narrative link to Archivion (knowledge), Luminara (light), Aerendel (balance)
+# 🧭 2. Exploration Bonus
+
+### **Pathfinder**
+- **+10% stamina regeneration while out of combat**  
+- Slightly faster interaction speed with exploration objects  
+  *(opening crates, searching ruins, climbing ropes, etc.)*
+
+Pure utility, zero combat impact.
 
 ---
 
-## Runic Literacy Tier
-Humans have **balanced runic learning potential**:
+# ⚒️ 3. Crafting / Utility Bonus
 
-- Tier 1: easily understood (basic elemental or spiritual patterns)
-- Tier 2: accessible with training (simple combinations)
-- Tier 3: requires class/subclass alignment
-- Tier 4: requires high INT/WIL or dedicated mentor NPC
+### **Jack-of-All-Trades**
+Humans learn any crafting profession **5% faster**  
+(xp progression only — does NOT improve item strength).
 
-Humans excel in **hybrid rune builds** rather than specialist mastery.
+Additionally:
+- +5% success chance when salvaging materials  
+- access to universal crafting styles (neutral themes)
+
+This represents human adaptability.
 
 ---
 
-## Gameplay Notes
-- No inherent bonuses
-- Ideal for new players due to neutral animations and readable silhouettes
+# 🤝 4. Social / Cultural Bonus
+
+### **Diplomat’s Tongue**
+- **+5% Reputation gain** with all neutral factions  
+- Better initial prices at human settlements  
+- Additional dialogue choices in diplomatic quests
+
+Humans are culturally integrated across Aurion.
+
+---
+
+# 🧬 5. Narrative Identity Bonus
+
+### **Versatile Heritage** *(non-combat effect)*
+Humans have slight resistance to:
+- fear  
+- confusion  
+- charm  
+
+(Only reduces **duration** of those effects visually by ~5%;  
+does NOT reduce actual PvP/PvE crowd-control balance.)
+
+This visually reinforces human mental resilience without altering gameplay.
+
+---
+
+# Summary
+
+Humans excel through:
+
+- adaptability  
+- diplomatic versatility  
+- faster learning  
+- balanced gameplay identity  
+
+They are not the strongest, fastest, or toughest race —  
+but they are **the most flexible**, making them ideal for players who enjoy freedom of class choice and crafting routes.
+
+**“Not born extraordinary — but capable of becoming anything.”**
