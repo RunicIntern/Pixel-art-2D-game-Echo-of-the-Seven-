@@ -1,128 +1,126 @@
-# Undead – Technical Race Overview  
-### Echo of the Seven – Gameplay Mechanics
+# Undead – Racial Traits (Balanced RPG Version)
+*Echo of the Seven – Gameplay Mechanics*
 
-Undead are revenants who died physically but returned through shadow magic, necromancy or echo-bound resurrection.  
-They do not live — they persist. Their bodies are sustained by dark essence and fractured memory.
+Undead are revenants sustained by necrotic essence and echo-infused shadows.  
+They do not breathe, hunger or tire the way mortals do, and their bodies resist the decay of time —  
+but their fractured souls struggle to interface with the magic of life.
 
-Undead gameplay focuses on resilience, shadow synergy and identity through loss.
-
----
-
-# 🧬 1. Racial Fantasy
-Undead are:
-
-- cold, pale, partially decayed or magically reconstructed  
-- immune to mortal weaknesses  
-- spiritually sensitive  
-- resistant to corruption  
-- feared but powerful  
-
-They walk the world searching for purpose — or fragments of who they once were.
+These traits create a dark, atmospheric identity without granting combat advantages.
 
 ---
 
-# 🟦 2. Core Racial Traits
+# ⚔️ 1. Combat Flavour Bonus
 
-## **Deathless Flesh**
-- +50% resistance: Poison, Disease, Bleed  
-- immune to starvation & thirst  
-- -20% Shadow damage taken  
-- +15% Holy damage taken  
+### **Death’s Patience**
+- **-2% Damage Taken from Damage-over-Time effects**  
+  (poison, bleed, burn, rot — *non-boss only*)  
 
-## **No Metabolism**
-Undead do not require:
-- food  
-- water  
-- sleep  
-
-(They may require rare “shadow essence” in future endgame systems.)
-
-## **Darkvision**
-- Perfect vision in darkness  
-- +25% detection vs undead, spirits and shadow anomalies
+**Design Reason:**
+- Undead don’t feel pain → slight resistance to *ambient* DoT  
+- Does NOT affect boss mechanics or PvP  
+- Perfect flavour, zero meta relevance
 
 ---
 
-# 🟧 3. Racial Passives
+# 🥀 2. Racial Penalty (Identity, Not Balance)
 
-## **Echo Memory**
-- +5% XP from ruins, crypts, shadow zones  
-- unique dialogue options  
-- grants special quests based on past-life echoes  
+### **Faded Essence**
+Undead receive:
+- **-10% effectiveness from direct healing spells cast ON them**  
+  (only *healing done to the Undead player*, not healing they output)
 
-## **Necrotic Endurance**
-- +5% max HP  
-- cannot drop below 1 HP from Bleed/Poison  
-- regenerates 1% HP per 10 seconds in shadowed areas
+BUT:
 
----
+- Out-of-combat regeneration is NORMAL  
+- Healing potions work at 100%  
+- Undead healers heal others at 100%  
+- Does NOT affect shields, HoTs, runes or lifesteal  
+- Does NOT affect raid viability (healers compensate instantly)
 
-# 🟥 4. Racial Weaknesses
-## **Holy Vulnerability**
-- +15% damage from Light/Holy  
-- healing received -10%  
-
-## **Unsettling Presence**
-- +5% shop prices in holy/human regions  
-- reduced reputation gain in consecrated cities
+**This is the perfect racial drawback:  
+immersive, meaningful, but not harmful to gameplay.**
 
 ---
 
-# 🟩 5. Class Synergies
+# 🧭 3. Exploration Bonus
 
-### Best synergy:
-- Oracle  
-- Rogue / Assassin  
-- Shaman  
-- Battlemage  
-- Spirit Ranger  
+### **Gravewalker**
+Undead gain:
 
-### Neutral synergy:
-- Mage  
-- Hunter  
-- Warrior  
+- **Immunity to disease, plague and curse DAMAGE**  
+- Can walk through toxic miasma without penalties  
+- **+15% movement speed in shadowed areas** *(visual, non-combat speed)*  
+- Night vision / darkvision active at all times
 
-### Antisynergy:
-- Priest  
-- Paladin  
+This makes them *feel* supernatural without increasing combat effectiveness.
 
 ---
 
-# 🟪 6. Runic Synergy
+# ⚒️ 4. Utility / Crafting Bonus
 
-## **Shadow Runes (SHA, UMB, TYR)**
-- -15% shatter chance  
-- +10% DoT effectiveness  
-- +5% cooldown reduction  
+### **Bonecraft Memory**
+- **+10% success rate** when crafting necrotic, shadow or bone-themed items  
+- Cosmetic bone patterns on crafted armour  
+- Chance to salvage **Soul Dust** from broken magical items
 
-## **Echo Runes (MEL, AER, NAL)**
-- enhanced Oracle/Shaman interactions  
-- ambient buffs in corrupted areas  
+No stat bonuses → pure RPG utility.
 
 ---
 
-# 🟫 7. Regional Synergy
-Undead excel in:
-- crypts  
-- ruins  
-- shadowlands  
-- echo-scarred battlefields  
+# 🤝 5. Social / Cultural Bonus
 
-Struggle in:
-- holy sanctuaries  
-- sun-blessed cities
+### **Aura of Unease**
+Undead receive:
 
----
+- **-5% prices from necromancers, shadow cultists and death vendors**  
+- **+5% prices from holy-aligned merchants**  
+- Extra dialogue options in:
+  - crypts  
+  - graveyards  
+  - cursed ruins  
+  - temples of Aerendel  
 
-# 🟨 8. Starting Zone
-## **The Hollow Warrens**
-Tutorial for:
-- shadow mechanics  
-- echo questlines  
-- identity fragments  
-- lore revelations  
+This is the most flavourful social trait of all races.
 
 ---
 
-# 🧩 Summary
-Undead are a powerful, flavorful race offering resilience, shadow synergy and unique narrative interactions without overlapping with Fallen creatures (reserved for future endgame content).
+# 🧬 6. Narrative Identity Bonus (Non-Combat)
+
+### **Lingered Echo**
+- When at low HP, faint ghostly whispers are heard (immersion only)  
+- Screen tint shifts slightly in strong shadow magic areas  
+- Undead NPCs react differently and may greet the player as “kin”  
+
+Zero gameplay effect — 100% atmosphere.
+
+---
+
+# 💀 Subrace Aesthetic Variants (Cosmetic Only)
+
+- **Skeletal:** exposed bones, hollow jaw  
+- **Wraithbound:** smoky essence, glowing eyes  
+- **Corpsewalker:** partially preserved body  
+- **Rune-Stitched:** ritual runes sewn into flesh  
+- **Plagueborne:** fungal or rot patterns (cosmetic)
+
+No bonuses — pure visuals.
+
+---
+
+# Summary
+
+Undead feel:
+
+- eerie  
+- resilient  
+- shadow-aligned  
+- cold and calculating  
+- spiritually fractured  
+- culturally isolated  
+
+Their kit includes both a **flavourful advantage** (DoT resistance, disease immunity)  
+and a **signature drawback** (reduced healing received) —
+
+— creating the *darkest, richest RPG identity* in the game without affecting endgame viability.
+
+**“Death is not an end — merely an inconvenience.”**
