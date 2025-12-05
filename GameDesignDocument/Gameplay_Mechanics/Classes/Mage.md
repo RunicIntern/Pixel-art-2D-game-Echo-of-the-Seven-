@@ -1,229 +1,182 @@
 # Mage  
 ### Tier 1 Base Class – Echo of the Seven
 
-Mages are masters of elemental destruction and arcane manipulation.  
-They command fire, frost, lightning and spatial echoes to obliterate enemies, control the battlefield, and unleash devastating magic.
-
-In Echo of the Seven, a Mage doesn’t merely cast spells — they bend the fabric of reality using runic channels infused into their mana.
+Mages are wielders of raw magical power, bending elemental and arcane forces to their will.  
+They excel at ranged burst damage, battlefield control and mobility through teleportation.
 
 ---
 
-## 🔮 Class Identity  
-**Combat Role:** Ranged Magic DPS / Elementalist / AoE Control  
-**Difficulty:** ★★★★☆  
-**Resource:** Mana (fast regen, high cost abilities)  
-**Armor Type:** Cloth / Light Arcane Robes  
-**Primary Attributes:** Intelligence, Will, Mastery
+# 🎯 Class Identity  
+**Combat Role:** Ranged Magical DPS / Control / Utility  
+**Difficulty:** ★★★☆☆  
+**Resource:** Mana  
+**Armor:** Cloth  
+**Primary Attributes:** Intellect, Willpower, Control
 
 ---
 
-## 🧬 Lore  
-Mages of Aurion are intellectual warriors — scholars of the arcane who devoted their lives to studying elemental harmonics, ley-line flows and remnants of ancient runic power.
+# 🧬 Lore & Theme  
 
-Each Mage specializes in one of several paths:
+Mages study the echoes of the ancient Domains, learning to channel:
 
-- **Ignovar Mages** – fire, eruption, destruction  
-- **Seranthis Mages** – lightning, chaos, unstable magic  
-- **Aerendel Mages** – wind, teleportation, speed  
-- **Archivion Mages** – memory, echo magic, knowledge  
-- **Luminara Mages** – light spells, barriers, radiant control  
+- fire and lightning,  
+- frost and slowing energies,  
+- pure arcane force,  
+- space-bending teleports.
 
-Unlike Priests who channel divine essence, Mages reshape the world through willpower alone — but their magic is volatile and dangerous.
+They are researchers, scholars, battle-mages and living conduits of magical power.
 
----
+Their discipline connects to:
 
-## 🩸 Strengths & Weaknesses
-
-### ✔ Strengths  
-- Highest burst damage in the game  
-- Strong AoE and crowd-control  
-- Tons of rune interactions  
-- Teleports, mobility and battlefield control  
-- Scales incredibly with gear and runes  
-
-### ✘ Weaknesses  
-- Very squishy  
-- Mana-dependent  
-- Requires spacing and smart cooldown use  
-- Weak at low levels without runes  
+- knowledge and structure,  
+- controlled chaos,  
+- the danger of overchanneling.
 
 ---
 
-## 🌀 Synergy With Runes  
-Mages are the MOST runic-dependent class in the entire game.
+# 🩸 Strengths & Weaknesses
 
-Top rune synergies:
+## ✔ Strengths  
+- High ranged burst damage  
+- Strong battlefield control (slows, roots)  
+- Teleportation / blink tools  
+- Excellent AoE potential at higher levels  
 
-- **RA** – fire, eruption, burn  
-- **EL** – lightning, stuns, overload  
-- **NAL** – frost, slow, freeze  
-- **AEL** – space, teleportation, blink  
-- **MEL** – clarity, mana efficiency  
-- **SER** – chaos procs (crit explosions)
-
-Hybrid spell examples:  
-- RA + SER → chaotic fire explosions  
-- EL + MEL → chain lightning with clarity boosts  
-- NAL + ZYN → slow → freeze → shatter combos  
-- AEL + RA → teleport → fiery explosion from arrival point  
-
-Mages convert runes into completely new variants of spells.
+## ✘ Weaknesses  
+- Very low physical defence  
+- Reliant on positioning and resource management  
+- Vulnerable when silenced or interrupted  
+- Limited sustain at Tier 1  
 
 ---
 
-## 🧬 Best Race Synergies  
-All races can cast, but some excel naturally:
+# 🌀 Rune Synergy (Category-Based)  
 
-### ⭐ **Elf**  
-Best mana regen + accuracy → top-tier caster.
+Mages benefit from runes aligned with:
 
-### ⭐ **Human**  
-Balanced stats → great for hybrid Mage evolutions (Oracle, Battlemage).
+### • **Fire / Destruction**
+Higher explosive damage, burning effects.
 
-### ⭐ **Fallen/Undead**  
-Dark magic affinity → shadow caster builds.
+### • **Frost / Control**
+Strong slows, occasional roots, crowd control.
 
-### ⭐ **Goblin**  
-Insane chaos builds with Seranthis + EL.
+### • **Storm / Arcane**
+Burst, chain effects, resource manipulation.
 
-### ⭐ **Beastfolk**  
-Surprising synergy: nature-frost hybrid builds.
+### • **Reality / Space**
+Short teleports, blink enhancements, repositioning tools.
 
 ---
 
 # 📘 Tier 1 Skill Kit (Levels 1–10)
 
-Mage begins with **6 explosive abilities**, mixing damage and control.
+---
+
+## 🔥 1. Firebolt  
+*Basic offensive spell.*
+
+- Ranged single-target fire damage  
+- Low mana cost  
+- Chance for a small burning effect if augmented by fire-aligned runes  
+
+Core filler spell.
 
 ---
 
-## 🔥 1. **Fire Bolt**  
-*Basic ranged fire attack*
+## ❄️ 2. Ice Shard  
+*Control-leaning spell.*
 
-- Generates 1 Arcane Heat  
-- Chance to apply minor burn  
-- Scales with Intelligence  
+- Deals frost damage  
+- Slightly slows target on hit  
+- Control runes may increase slow or add brief root at high tiers  
 
-Classic mage opener.
-
----
-
-## ❄️ 2. **Frost Shard**  
-*Piercing ice projectile*
-
-- Slows enemies hit  
-- High base accuracy  
-- Synergy: NAL → freeze chance  
-
-Essential control tool.
+Foundational kiting tool.
 
 ---
 
-## ⚡ 3. **Spark Nova**  
-*Lightning AoE burst around the Mage*
+## 💥 3. Arcane Pulse  
+*Short-range AoE.*
 
-- Deals small AoE damage  
-- Chance to stun  
-- Synergy: EL → chain lightning  
+- Emits a pulse around the Mage  
+- Deals arcane damage to nearby enemies  
+- Impact/arcane runes may enhance radius or moderate damage  
 
-Useful when surrounded.
-
----
-
-## 🌀 4. **Arcane Push**  
-*Knockback spell*
-
-- Pushes enemies 4 meters back  
-- Interrupts casts  
-- Synergy: AEL → adds mini-blink backstep  
-- Synergy: MEL → reduces mana cost  
-
-Mage survival in one spell.
+Useful for enemies that get too close.
 
 ---
 
-## 🔥❄️⚡ 5. **Elemental Weave**  
-*Choose one of three empowerments*
+## ✨ 4. Blink  
+*Short-range teleport.*
 
-- Fire → +damage, burn chance  
-- Frost → slow, control  
-- Lightning → attack speed & cast speed increase  
-- Costs Mana, lasts 8 seconds  
+- Teleports the Mage a short distance  
+- Removes root effects  
+- Space-aligned runes may reduce cooldown or add post-blink bonuses  
 
-This system lets Mage adapt to the moment.
-
----
-
-## 🌌 6. **Echo Beam**  
-*Signature Tier 1 spell*
-
-Fires a beam of arcane energy that leaves an echo behind.
-
-Effects:  
-- Beam deals direct arcane damage  
-- Echo repeats the damage 1.5 seconds later  
-- Rune synergies:  
-  - ROK’SHEN → echo repeats twice  
-  - EL → echo strikes with lightning  
-  - RA → echo explodes  
-  - NAL → echo freezes briefly  
-
-This is where Mage becomes Mage.
+Essential mobility and survival tool.
 
 ---
 
-# ✨ Level 5 Class Buff – **Arcane Intellect**  
-*Long-duration buff – casting power & mana flow*
+## 🛡️ 5. Mana Ward  
+*Defensive barrier.*
 
-Unlocked at Level 5.
+- Creates a temporary shield that absorbs moderate damage  
+- Costs mana  
+- Protection runes may marginally increase its absorption  
 
-**Base effects (1 hour):**
-- +5% spell power  
-- +5% mana regeneration  
-- +small boost to accuracy of elemental spells  
-
-**Rune Synergy:**  
-- **MEL** → +10% mana regen  
-- **EL** → lightning spells gain overload chance  
-- **RA** → fire spells gain burn potency  
-- **NAL** → frost spells gain extra slow  
-- **ZYN** → buff lasts 90 minutes  
-
-A core buff for all magic builds.
+Key survivability ability.
 
 ---
 
-# 🛤 Evolution Path (Level 10 → Tier 2)
-Mage can evolve into:
+## 🌩️ 6. Elemental Surge  
+*Signature Tier 1 spell.*
 
-- **Mage + Rogue → Spellblade**  
-  *Lightning assassin with blink-strikes*
+- Channels a burst of elemental energy at a target  
+- Element-based runes determine whether the surge behaves as fire, frost, lightning or pure arcane  
+- Can be tuned for burst or control depending on rune setup  
 
-- **Mage + Priest → Oracle**  
-  *Arcane foresight, support magic, future echoes*
+Core “big spell” for Tier 1.
 
-- **Mage + Warrior → Battlemage**  
-  *Heavy armor caster with explosive melee spells*
+---
 
-- **Mage + Hunter → Arcane Archer**  
-  *Infuses arrows with runic magic*  
+# ✨ Level 5 Buff — Arcane Insight  
+*Long-duration intellect/clarity buff.*
 
-Each evolution drastically changes spell interactions and rune synergy.
+**Base Effects (1 hour):**
+- Slight increase to spell power  
+- Slight increase to mana regeneration out of combat  
+- Increased detection of magical anomalies (lore/utility only)
+
+**Rune Category Synergies:**
+- Fire → improves damage portion  
+- Frost → improves control portion  
+- Storm/Arcane → improves resource or cast-speed related aspects  
+- Duration → extends buff time  
+
+---
+
+# 🛤 Tier 2 Evolution (Level 10)
+
+Mage combines with:
+
+- **Mage + Warrior → Battlemage** (armoured caster, mid-range fighter)  
+- **Mage + Rogue → Spelltrickster** (illusions, tricks, hybrid control)  
+- **Mage + Priest → Oracle** (vision magic, divination, support caster)  
+- **Mage + Hunter → Druid** (nature magic, wild shaping themes)
 
 ---
 
 # 🔮 Mage Fantasy – “How It Feels to Play”
+
 Playing Mage feels like:
 
-- obliterating enemies with elemental force,  
-- controlling entire rooms with frost and lightning,  
-- flashing around the battlefield using spatial runes,  
-- weaving elemental combos into powerful finishers,  
-- unleashing explosions of pure arcane energy.
+- tearing reality open with raw magic,  
+- freezing enemies in place,  
+- vanishing in a blink and reappearing at a safe angle,  
+- landing huge elemental surges at just the right time,  
+- feeling powerful yet fragile — glass cannon with a brain.
 
-A Mage is the storm.  
-A Mage is the wildfire.  
-A Mage is the echo of destruction.
+A living storm.  
+A scholar of power.  
+A hand that rewrites the rules of the battlefield.
 
 ---
-
