@@ -1,236 +1,184 @@
 # Warrior  
 ### Tier 1 Base Class – Echo of the Seven
 
-The Warrior is the unbreakable frontline of any party — a master of steel, grit and battlefield control.  
-Warriors dominate close-range combat, protecting allies, disrupting enemies and delivering crushing blows through raw strength and tactical precision.
-
-In Echo of the Seven, Warriors channel their physical might through the Echo Runic System, enabling powerful weapon enhancements and defensive echoes.
+Warriors are front-line fighters who turn raw discipline, steel and willpower into unstoppable momentum.  
+They stand between danger and their allies, controlling space with heavy blows, stuns and defensive techniques.
 
 ---
 
-## 🛡 Class Identity  
-**Combat Role:** Tank / Bruiser / Melee Control  
-**Difficulty:** ★★★☆☆  
-**Resource:** Vigor (gained by taking or dealing damage)  
-**Armor Type:** Heavy Armour / Shields  
-**Primary Attributes:** Strength, Fortitude, Resolve
+# 🎯 Class Identity  
+**Combat Role:** Frontline Bruiser / Tank / Melee DPS  
+**Difficulty:** ★★☆☆☆  
+**Resource:** Rage (built by taking and dealing damage)  
+**Armor:** Heavy Armour / Shields  
+**Primary Attributes:** Strength, Vitality, Resolve
 
 ---
 
-## 🧬 Lore  
-Warriors are the backbone of Aurion’s armies — knights, mercenaries, wanderers, clan champions and city guardians.  
-Unlike mages or priests, Warriors do not rely on arcane mastery or divine blessings. Their power comes from:
+# 🧬 Lore & Theme  
+Warriors are the backbone of armies, mercenary companies and royal guards.  
+They trust steel more than sorcery and rely on training, discipline and raw endurance.
 
-- discipline,  
-- training,  
-- resilience,  
-- and an unbreakable will.
+Their fighting style resonates with domains of:
 
-However, Warriors have learned to wield runes **through steel**.  
-Their weapons and armour bear etchings of:
+- strength and impact,  
+- protection and fortification,  
+- honour and duty,  
+- controlled fury.
 
-- **VAR** (strength),  
-- **VOL** (protection),  
-- **SHAR** (steel edge),  
-- **RA** (fire forging),  
-- **TYR** (blood and battle).
-
-This binding of physical combat + runic echoes created a modern Warrior capable of much more than brute force.
+They are not spellcasters — but their presence on the battlefield is a kind of magic in itself.
 
 ---
 
-## 🩸 Strengths & Weaknesses
+# 🩸 Strengths & Weaknesses
 
-### ✔ Strengths  
-- Highest base defense  
-- Great party protection  
-- Strong crowd control  
-- High stamina & sustain  
-- Very strong synergy with heavy armor runes  
-- Excellent solo survivability  
+## ✔ Strengths  
+- High survivability  
+- Strong crowd-control (stuns, knockdowns)  
+- Excellent frontline presence  
+- Good threat and peel tools  
+- Simple, readable gameplay loop  
 
-### ✘ Weaknesses  
+## ✘ Weaknesses  
 - Limited ranged options  
-- Weak vs kiting  
-- Requires good positioning  
-- Lower damage without runic enhancements  
-- Vulnerable to magic without buffs  
+- Reliant on being in melee range  
+- Vulnerable to heavy kiting  
+- Low utility outside combat roles  
 
 ---
 
-## 🌀 Synergy With Runes  
-Warriors resonate with runes carved onto metal:
+# 🌀 Rune Synergy (Category-Based)  
 
-- **VAR** – raw power, rage, melee dmg  
-- **VOL** – shields, armor, protection  
-- **SHAR** – armor penetration  
-- **RA** – molten / fiery weapon effects  
-- **TYR** – bleed-on-hit  
-- **AEL** – gap closers and short teleports  
-- **ZYN** – extended defensive buffs
+Warriors benefit from runes aligned with:
 
-Sample Warrior rune combos:  
-- VAR + SHAR → crushing armor-breaker strikes  
-- VOL + ZYN → long-duration defensive auras  
-- RA + SER → explosive fiery slams  
-- TYR + VAR → brutal bleed-fueled attacks  
+### • **Strength / Impact**  
+Heavier hits, improved opening blows, enhanced finishers.
 
----
+### • **Protection / Guard**  
+Increased shielding, improved mitigation, better block/parry.
 
-## 🧬 Best Race Synergies  
-Warrior works on every race, but excels in:
+### • **Control / Stun**  
+Extended stun/knockdown durations, more reliable CC.
 
-### ⭐ **Orc**  
-Natural strength & rage → perfect frontline bruiser.
+### • **Endurance / Sustained Fight**  
+Improved resource cycling and damage smoothing over time.
 
-### ⭐ **Dwarf**  
-Unmatched durability → strongest shield Warrior.
-
-### ⭐ **Human**  
-Versatile — ideal for Paladin or Battlemage paths.
-
-### ⭐ **Beastfolk (bear/wolf)**  
-Bonus health + primal fury → high sustain tank.
-
-### ⭐ **Fallen/Undead**  
-Resistance to debuffs → anti-magic Warriors.
+> No rune words or symbols are exposed here – players discover exact combinations through gameplay.
 
 ---
 
 # 📘 Tier 1 Skill Kit (Levels 1–10)
 
-Warrior starts with **6 core abilities** that define their identity as a tanky melee combatant and battlefield controller.
+---
+
+## ⚔️ 1. Heavy Strike  
+*Basic melee attack.*
+
+- Generates Rage  
+- Slightly increased threat  
+- Scales with Strength  
+
+Core filler attack for both tank and DPS builds.
 
 ---
 
-## ⚔ 1. **Heavy Strike**  
-*Basic melee attack*
+## 🛡️ 2. Guarding Block  
+*Defensive stance.*
 
-- Increased damage if used after blocking  
-- Generates 3 Vigor  
-- Synergy: VAR → higher damage  
+- Temporarily increases damage reduction for a short duration  
+- Can partially block frontal attacks  
+- Protection-aligned runes may slightly increase duration or mitigation  
 
-Simple but powerful opener.
-
----
-
-## 🛡 2. **Shield Guard**  
-*Defensive stance*
-
-- Reduces incoming damage for 4 seconds  
-- Increases Vigor generation when hit  
-- Synergy: VOL → bonus shield absorb  
-
-Core survival skill.
+Foundational survival tool.
 
 ---
 
-## ⚡ 3. **Charge**  
-*Gap closer*
+## 🗡️ 3. Shield Bash / Pommel Strike  
+*Short stun / disrupt.*
 
-- Rushes toward target  
-- Stuns for 0.5–1 sec  
-- Synergy: AEL → partial blink-charge  
-- Synergy: RA → fiery trail on charge  
+- Deals minor damage  
+- Stuns or interrupts the target briefly  
+- Control-aligned runes may refine stun duration  
 
-Essential for engaging.
-
----
-
-## 🔗 4. **Iron Pull**  
-*Short-range pull*
-
-- Pulls one enemy 4m toward the Warrior  
-- Interrupts spellcasting  
-- Synergy: SHAR → armor shred on pulled target  
-
-Great for controlling dangerous enemies.
+Key interrupt and control ability.
 
 ---
 
-## 💢 5. **Sweeping Blow**  
-*Wide arc AoE attack*
+## 🌀 4. Charge  
+*Gap-closer.*
 
-- Hits all enemies in front  
-- Applies minor bleed  
-- Synergy: TYR → stronger bleed  
-- Synergy: VAR → increased AoE size  
+- Rushes towards a target within a fixed range  
+- Briefly slows the enemy on impact  
+- Mobility-oriented runes may slightly reduce cooldown  
 
-Perfect for clearing groups.
-
----
-
-## 🛠 6. **Echo Slam**  
-*Signature Tier 1 Warrior ability*
-
-Warrior slams the ground, creating a shockwave and leaving an echo behind.
-
-Effects:  
-- Deals physical damage in a circle  
-- Echo repeats 70% of the damage after 1 second  
-- Rune synergies:  
-  - VAR → stronger first hit  
-  - SHAR → armor shred on both hits  
-  - RA → echo explodes in fire  
-  - VOL → echo grants minor shields to allies  
-
-Defines the Warrior’s echo style.
+Essential for engaging and sticking to targets.
 
 ---
 
-# ✨ Level 5 Class Buff – **Warrior’s Resolve**  
-*Long-duration buff – defense & endurance boost*
+## 🔥 5. Cleaving Swing  
+*Sweeping melee attack.*
 
-Unlocked at Level 5.
+- Hits multiple enemies in a small arc  
+- Generates extra Rage per enemy hit  
+- Impact-oriented runes may improve its hit radius or minor damage  
 
-**Base effects (1 hour):**
-- +3% maximum HP  
-- +4% physical resistance  
-- +2% Vigor generation  
-
-**Rune Synergy:**  
-- **VOL** → +additional armor  
-- **VAR** → +melee damage bonus  
-- **ZYN** → buff lasts 90 minutes  
-- **AEL** → small movement speed increase  
-- **TYR** → bleed resistance  
-
-This buff defines Warrior’s natural toughness.
+Primary AoE tool at Tier 1.
 
 ---
 
-# 🛤 Evolution Path (Level 10 → Tier 2)
-Warrior can evolve into:
+## 🩸 6. Last Stand  
+*Emergency survival cooldown.*
 
-- **Warrior + Priest → Paladin**  
-  *Holy Knight with shields & healing*
+- Temporarily increases maximum health  
+- Grants a short burst of damage reduction  
+- Endurance-aligned runes may slightly extend duration  
 
-- **Warrior + Rogue → Berserker**  
-  *Rage-fueled high-damage DPS*
-
-- **Warrior + Mage → Battlemage**  
-  *Heavy armor caster with explosive melee spells*
-
-- **Warrior + Hunter → Warden**  
-  *Defensive ranger with traps & taunts*
-
-Each evolution radically changes skills and runic interaction.
+Signature “do not die yet” button.
 
 ---
 
-# 🛡 Warrior Fantasy – “How It Feels to Play”
+# ✨ Level 5 Buff — Battle Cry  
+*Long-duration offensive/defensive shout.*
+
+**Base Effects (1 hour):**
+- Slight increase to max health  
+- Slight increase to physical damage  
+- Slight increase in threat generation (for tank builds)
+
+**Rune Category Synergies:**
+- Strength → improved damage contribution  
+- Protection → stronger defensive portion  
+- Endurance → longer buff duration  
+
+No cooldown; can be re-applied at will.
+
+---
+
+# 🛤 Tier 2 Evolution (Level 10)
+
+Warrior evolves through class combinations:
+
+- **Warrior + Priest → Paladin** (holy tank/support hybrid)  
+- **Warrior + Rogue → Duelist** (agile melee DPS, counters and ripostes)  
+- **Warrior + Mage → Battlemage** (armoured arcane bruiser)  
+- **Warrior + Hunter → Warden** (frontline protector with traps and beast synergy)
+
+Future expansions may add more combinations.
+
+---
+
+# ⚔️ Warrior Fantasy – “How It Feels to Play”
+
 Playing Warrior feels like:
 
-- standing fearlessly on the frontline,  
-- controlling the battlefield,  
-- protecting allies from danger,  
-- smashing enemies with overwhelming force,  
-- using runes to empower weapons and armour,  
-- being the anchor that holds the entire team together.
+- standing firm when others fall,  
+- charging headfirst into danger,  
+- controlling enemies with weighty blows,  
+- leading the frontline through sheer presence,  
+- turning rage and discipline into unstoppable force.
 
-A true shield of the party.  
-A champion of steel.  
-A living fortress.
+A wall of steel.  
+A storm in armour.  
+The first in — the last out.
 
 ---
-
