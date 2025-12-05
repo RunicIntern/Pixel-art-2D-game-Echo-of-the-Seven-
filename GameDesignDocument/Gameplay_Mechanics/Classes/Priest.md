@@ -1,209 +1,176 @@
 # Priest  
 ### Tier 1 Base Class – Echo of the Seven
 
-The Priest is the spiritual anchor of every party — a wielder of divine light, protective wards and restorative echoes.  
-In Echo of the Seven, a Priest is not merely a healer. They serve as a conduit between mortals and the divine, bending the seven domains’ energies to preserve life, empower allies and purge corruption.
-
-Priests are versatile, resilient, and unique in their ability to enhance runic effects on allies through divine resonance.
+Priests are mediators between mortals and divine domains.  
+They channel light, faith and spiritual power to heal, protect and occasionally smite.
 
 ---
 
-## ✨ Class Identity  
-**Combat Role:** Healer / Support / Light-based Utility  
-**Difficulty:** ★★★★☆  
-**Resource:** Faith (regenerates slowly; increases from healing, decreases from offensive spells)  
-**Armor Type:** Light Armour, Blessed Cloth  
-**Primary Attributes:** Wisdom, Faith, Spirit
+# 🎯 Class Identity  
+**Combat Role:** Healer / Support / Light-Damage Caster  
+**Difficulty:** ★★★☆☆  
+**Resource:** Faith (or Mana-like resource)  
+**Armor:** Cloth / Light  
+**Primary Attributes:** Willpower, Spirit, Intellect
 
 ---
 
-## 🧬 Lore  
-Priests are the spiritual stewards of Aurion.  
-They do not serve a single deity — rather, each Priest chooses a divine path that resonates with their beliefs, shaping their healing techniques and combat rituals.
+# 🧬 Lore & Theme  
 
-While many Priests follow Luminara, the Goddess of Light, others walk darker or more unusual roads:
+Priests serve the Modern Gods, local faiths or ancient vows.  
+They uphold:
 
-- **Umbros Priests** wield shadowed blessings and deceptive illusions.  
-- **Archivion Priests** restore knowledge through runic memory magic.  
-- **Aerendel Priests** channel clarity, swiftness and spatial harmony.  
-- **Ignovar Priests** heal through fiery determination and battle hymns.
+- hope and protection,  
+- balance between life and death,  
+- spiritual guidance,  
+- rituals, blessings and absolutions.
 
-This diversity makes the Priest one of the most flexible and thematically rich classes in the entire game.
-
----
-
-## 🩸 Strengths & Weaknesses
-
-### ✔ Strengths  
-- Best healing in the game  
-- Protective barriers and buffs  
-- High synergy with runes (LUM, VOL, MEL, VAEL)  
-- Essential in party play  
-- Strong self-sustain in solo content  
-
-### ✘ Weaknesses  
-- Low base damage  
-- Vulnerable without barriers  
-- Requires positioning and timing  
-- Weak mobility early game  
+Some Priests focus on radiant healing, others on retribution and judgement.  
+A few walk the thin line between light and shadow.
 
 ---
 
-## 🌀 Synergy With Runes  
-Priests naturally resonate with divine and orderly runes:
+# 🩸 Strengths & Weaknesses
 
-- **LUM** – light, purity, healing  
-- **VOL** – protection, barriers  
-- **MEL** – wisdom, clarity  
-- **VAEL** – life, regeneration  
-- **AEL** – spatial targeting for healing  
-- **ZYN** – longer buff duration  
+## ✔ Strengths  
+- Strong single-target and group healing  
+- Powerful long-duration buffs  
+- Basic light-damage tools for levelling  
+- Highly desired in group content  
 
-Priests gain an additional 10–20% effectiveness on any healing or shield rune when used on allies.
+## ✘ Weaknesses  
+- Low armour  
+- Limited solo burst damage  
+- Depends heavily on resource and cast times  
+- Vulnerable when focused without protection  
 
 ---
 
-## 🧬 Best Race Synergies  
-Every race can play Priest effectively, but some offer thematic or mechanical advantages:
+# 🌀 Rune Synergy (Category-Based)
 
-### ⭐ **Human**  
-Balanced stats, adaptable playstyle — excellent early progression.
+Priests benefit from runes aligned with:
 
-### ⭐ **Elf**  
-Superior mana flow → exceptional healing uptime.
+### • **Light / Restoration**
+Improved healing, stronger HoTs, better group support.
 
-### ⭐ **Beastfolk**  
-Spirit affinity boosts rituals, totems and echo interactions.
+### • **Protection / Wards**
+Damage reduction, shields, cleanses.
 
-### ⭐ **Fallen/Undead**  
-Shadow-infused healing paths; strong synergy with Umbros.
+### • **Judgement / Retribution**
+Focused single-target damage, light-based smites.
 
-### ⭐ **Orc**  
-High innate toughness → surprisingly strong solo Priest progression.
+### • **Spirit / Faith**
+Resource efficiency, cast stability, minor self-sustain.
 
 ---
 
 # 📘 Tier 1 Skill Kit (Levels 1–10)
 
-Priest begins with **six core abilities** defining their identity as a protector and restorer.
+---
+
+## ✨ 1. Radiant Bolt  
+*Basic offensive spell.*
+
+- Deals light-based damage to a single target  
+- Low resource cost  
+- Good for solo content and pulling enemies  
 
 ---
 
-## ✨ 1. Light Pulse  
-*Basic ranged attack – holy damage*
+## 💚 2. Mend  
+*Single-target heal.*
 
-- Range: 20m  
-- Damage scales with Wisdom  
-- Generates 2 Faith  
-
-Simple offensive filler for solo leveling and light weaving in group play.
+- Restores a moderate amount of health  
+- Short cast time  
+- Core healing spell for both solo and group play  
 
 ---
 
-## ✨ 2. Mend Flesh  
-*Single-target heal*
+## 🌿 3. Consecrated Ground  
+*Area Heal-over-Time.*
 
-- Instant heal + small HoT  
-- HoT doubles if target <30% HP  
-- Costs Faith  
+- Creates a small area on the ground  
+- Allies standing inside receive periodic healing  
+- Duration-focused or restoration-aligned runes may slightly improve tick strength or duration  
 
-Primary emergency heal and foundational support spell.
-
----
-
-## ✨ 3. Sanctuary Ward  
-*Protective barrier*
-
-- Absorbs damage for 6 seconds  
-- Grants minor resistance to debuffs  
-- Synergy: VOL → stronger barrier  
-
-A must-have tool to survive burst damage.
+Key group-healing tool.
 
 ---
 
-## ✨ 4. Radiant Burst  
-*Small AoE heal or small AoE damage*
+## 🔒 4. Binding Light  
+*Control / protection tool.*
 
-- Allies → heals around target  
-- Enemies → deals AoE holy damage  
-- Generates 1 Faith  
+- Briefly roots or heavily slows a target in place  
+- Deals minor light damage  
+- Control or judgement runes may refine the secondary effects  
 
-Flexible hybrid spell with strong utility.
-
----
-
-## ✨ 5. Purifying Chains  
-*Cleansing ability*
-
-- Removes 1–2 harmful effects  
-- Synergy: LUM’KAL → improved cleansing  
-- Medium cooldown  
-
-Crucial in dungeons, raids and PvP encounters.
+Useful for protecting the Priest or allies.
 
 ---
 
-## ✨ 6. Echo of Grace  
-*Signature Tier 1 ability*
+## 🛡️ 5. Ward of Faith  
+*Defensive single-target shield.*
 
-The Priest summons a drifting echo of divine energy:
+- Places a protective barrier on an ally  
+- Absorbs a fixed amount of damage  
+- Protection-aligned runes can marginally increase absorption or add small secondary effects  
 
-Effects:  
-- Heals allies who pass through it  
-- Damages enemies it touches  
-- Duration: 8 seconds  
-- Rune Synergies:  
-  - **ROK’SHEN (Echo)** → activates twice  
-  - **ZYN (Time)** → lasts 12 seconds  
-  - **AEL (Space)** → slowly tracks allies  
-
-This spell embodies the essence of echo-based magic.
+Core preventative heal.
 
 ---
 
-# ✨ Level 5 Class Buff – Aura of Grace  
-*Long-duration class buff – regeneration & resilience*
+## 🌈 6. Beacon of Hope  
+*Signature Tier 1 healing ability.*
 
-Unlocked at Level 5.
+- Large, delayed heal on a single ally or moderate instant heal to multiple nearby allies (design choice)  
+- Long cooldown  
+- Restoration-aligned runes may slightly lower cooldown or enhance healing in specific circumstances  
 
-**Base effects (1 hour):**
-- +2% max HP restored every 5 seconds  
-- +minor resistance to poison, bleed, burn & curses  
-- Applies to Priest and nearby party members  
-
-**Rune Synergy:**  
-- **LUM’VAEL (Heal)** → increases regen to 3–4% HP / 5s  
-- **VOL (Protection)** → grants periodic micro-shields  
-- **ZYN (Time)** → extends duration  
-- **MEL (Wisdom)** → enhanced healing on allies <50% HP  
-
-The buff can be refreshed without a cooldown.
+Defines the Priest’s identity as a powerful supporter.
 
 ---
 
-# 🛤 Evolution Path (Level 10 → Tier 2)
-At level 10, Priest evolves into a hybrid archetype depending on the second class:
+# ✨ Level 5 Buff — Blessing of the Faithful  
+*Long-duration blessing.*
 
-- **Priest + Warrior → Paladin**  
-- **Priest + Rogue → Shaman**  
-- **Priest + Mage → Oracle**  
-- **Priest + Hunter → Spirit Ranger (optional future branch)**  
+**Base Effects (1 hour):**
+- Slight increase to healing received by the target  
+- Slight increase to Faith/Mana regeneration  
+- Minor increase in resistance to fear or despair effects (lore-driven)  
 
-Each evolution unlocks new passives, altered skills and divine specializations.
+**Rune Category Synergies:**
+- Light → improves healing portion  
+- Protection → adds mild mitigation benefit  
+- Spirit → increases resource efficiency  
+- Duration → extends buff time  
 
----
-
-# 🌓 Priest Fantasy – “How It Feels to Play”
-Playing Priest means:
-
-- keeping teammates alive under pressure,  
-- casting protective wards just in time,  
-- cleansing deadly curses quickly,  
-- commanding runic echoes across the battlefield,  
-- controlling the rhythm of every fight.
-
-A well-played Priest transforms an entire party into something unstoppable.
+No cooldown; can be maintained continuously.
 
 ---
 
+# 🛤 Tier 2 Evolution (Level 10)
+
+Priest combines with:
+
+- **Priest + Warrior → Paladin** (holy knight, melee support/tank hybrid)  
+- **Priest + Rogue → Shaman** (totems, ancestral spirits, hybrid support)  
+- **Priest + Mage → Oracle** (visions, predictive magic, support caster)  
+- **Priest + Hunter → Spirit Ranger** (ranged spiritual support, nature/wisdom hybrid)
+
+---
+
+# ✝️ Priest Fantasy – “How It Feels to Play”
+
+Playing Priest feels like:
+
+- holding your team together when everything goes wrong,  
+- turning the tide with one well-timed heal or shield,  
+- using blessings to make allies feel unbreakable,  
+- smiting enemies who threaten the innocent,  
+- walking the line between mercy and judgement.
+
+A voice of hope.  
+A shield in human form.  
+A bridge between mortals and the divine.
+
+---
