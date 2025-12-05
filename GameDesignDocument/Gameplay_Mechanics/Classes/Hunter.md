@@ -1,218 +1,198 @@
 # Hunter  
 ### Tier 1 Base Class – Echo of the Seven
 
-Hunters are masters of precision, mobility and wilderness survival.  
-Whether tracking prey across ancient forests, ambushing enemies from afar, or commanding the battlefield with traps and bleeds, the Hunter is the ultimate ranged physical specialist.
+Hunters are masters of precision, instinct and wilderness survival.  
+They excel at long-range combat, tactical positioning, kiting enemies and controlling the battlefield with traps.
 
-In Echo of the Seven, Hunters blend instinct, tactical positioning and runic infusions to strike with deadly efficiency.
+A Hunter reads the world like a map — wind direction, animal movement, terrain, shadows. Nothing goes unnoticed.
 
 ---
 
-## 🎯 Class Identity  
-**Combat Role:** Ranged Physical DPS / Trap Control / Nature Utility  
+# 🎯 Class Identity  
+**Combat Role:** Ranged Physical DPS / Trap Control / Kiting  
 **Difficulty:** ★★★☆☆  
-**Resource:** Focus (generated through attacks, consumed by special shots)  
-**Armor Type:** Leather / Light Armour  
-**Primary Attributes:** Agility, Focus, Precision
+**Resource:** Focus (built through attacks, spent on empowered skills)  
+**Armor:** Leather / Light Armour  
+**Primary Attributes:** Agility, Precision, Focus
 
 ---
 
-## 🧬 Lore  
-Hunters are the wardens of Aurion’s wild places.  
-They are scouts, trackers, beast tamers and sharpshooters — always one step ahead of the enemy.
+# 🧬 Lore & Theme  
+Hunters serve as scouts, trackers and wardens of the wild places of Aurion.  
+They move between civilisation and wilderness, living by instinct and understanding of terrain.
 
-While they rarely swear loyalty to any single deity, their craft often aligns with:
+Although not bound to a single deity, Hunters resonate with domains involving:
 
-- **Seranthis** (storm, chaos, sudden strikes),  
-- **Aerendel** (wind, distance, movement),  
-- **Dul’Mora** (stone traps, stability),  
-- **Luminara** (holy arrows, protective marks).
+- wind, movement and sudden strikes,  
+- storms and instinct,  
+- nature and bleeding prey,  
+- stability and trapcraft,  
+- spiritual harmony with the land.
 
-Hunters live between civilisation and wilderness, reading tracks, sensing danger, and striking from unexpected angles.
+Hunters learn from the world — not from scripture.
 
 ---
 
-## 🩸 Strengths & Weaknesses
+# 🩸 Strengths & Weaknesses
 
-### ✔ Strengths  
-- Strongest early-game solo class  
-- High mobility  
-- Long-range damage  
-- Excellent kiting potential  
-- Powerful bleeds & traps  
-- Synergy with runes (ETH, SHAR, NAL, VAR)
+## ✔ Strengths  
+- Exceptional solo class  
+- High mobility and kiting  
+- Long-range consistent damage  
+- Powerful bleeds and control traps  
+- Great adaptability with runic enhancements  
 
-### ✘ Weaknesses  
-- Squishy without movement  
+## ✘ Weaknesses  
+- Fragile if caught  
 - Requires positioning  
-- Weak at melee  
-- Dependent on accuracy & timing  
+- Limited burst without setup  
+- Weak at close range  
 
 ---
 
-## 🌀 Synergy With Runes  
-Hunters resonate with fast, sharp and natural runes:
+# 🌀 Rune Synergy (Category-Based, No Rune Names Revealed)  
+Hunters interact with runes that complement:
 
-- **ETH** – wind, dodge, movement  
-- **SHAR** – piercing arrows  
-- **NAL** – slowing/frost interactions  
-- **VAR** – brute power  
-- **VAEL** – nature, bleed amplification  
+### • **Mobility / Wind**
+Shorter cooldowns, faster repositioning, quicker shot release.
 
-Example conversions:  
-- SHAR + VAR → Armor-break + heavy hit  
-- NAL + ROK’SHEN → frost arrows that echo  
-- ETH + AEL → blink-shot mobility  
-- VAEL + TYR → bleed-over-time traps  
+### • **Precision / Piercing**
+Stronger armour interactions, crit amplification, cleaner shots.
 
----
+### • **Frost / Control**
+Longer slows, chill effects, improved kiting.
 
-## 🧬 Best Race Synergies  
-Every race can play Hunter well, but standouts include:
+### • **Nature / Bleed**
+Enhanced DoTs, trap empowerment, bleed spread.
 
-### ⭐ **Dwarf**  
-Natural connection to traps, engineering, durability.
+### • **Force / Impact**
+Heavier opening hits, empowered first strikes.
 
-### ⭐ **Elf**  
-Fastest attack animations, best synergy with wind runes.
-
-### ⭐ **Goblin**  
-Trap mastery + chaos combos = insane PvP potential.
-
-### ⭐ **Beastfolk**  
-Enhanced instinct, great synergy with bleed and nature builds.
-
-### ⭐ **Human**  
-Flexible and reliable for all hybrid evolutions.
+> *No rune words, symbols or specific combinations are revealed here.  
+Players discover true runic meanings through gameplay.*
 
 ---
 
 # 📘 Tier 1 Skill Kit (Levels 1–10)
 
-Hunter starts with **6 core abilities** that define their identity as a precise and tactical long-range fighter.
+Hunter starts with **six core abilities**, forming a fluid long-range combat loop.
 
 ---
 
-## 🏹 1. **Piercing Shot**  
-*Basic ranged attack – physical/piercing*
+## 🏹 1. Piercing Shot  
+*Precise ranged attack.*
 
 - Generates 2 Focus  
-- +Crit chance if standing still for 1 second  
+- Bonus crit chance if stationary for 1s  
 - Scales with Agility  
-
-Bread-and-butter attack for both solo and party content.
+- Reliable filler and precision tool
 
 ---
 
-## ❄️ 2. **Frost Arrow**  
-*Slowing shot*
+## ❄️ 2. Frost Arrow  
+*Control shot with chill.*
 
 - Deals physical + minor frost damage  
-- Slows target by 30% for 3 seconds  
-- Synergy: NAL → stronger slow, longer duration  
+- Slows target by 30% for 3s  
+- Control-aligned runes extend or intensify slow
 
-Essential for kiting and positioning.
+Excellent for kiting or peeling melee enemies.
 
 ---
 
-## 🩸 3. **Bleed Trap**  
-*Ground trap – bleed over time*
+## 🩸 3. Bleed Trap  
+*Ground trap — bleed over time.*
 
-- Deals bleed damage over 6 seconds  
+- Deals bleed damage over 6s  
 - Trigger radius: 3m  
-- Synergy: TYR → stronger DoT  
-- Synergy: VAEL → bleed spreads to nearby enemies (small radius)
+- Nature-aligned runes enhance DoT or allow bleed spread
 
-Perfect control tool in both PvP and PvE.
-
----
-
-## ⚡ 4. **Quickstep**  
-*Short-distance evasive dash*
-
-- Moves Hunter 6 meters  
-- Removes root effects  
-- Synergy: ETH → reduced cooldown  
-- Synergy: AEL → after-dash empowered next shot
-
-Mandatory survival and mobility skill.
+Primary battlefield control tool.
 
 ---
 
-## 🎯 5. **Focused Aim**  
-*Precision buff*
+## ⚡ 4. Quickstep  
+*Short evasive dash.*
 
-- +Crit chance for the next shot  
+- Moves Hunter 6m instantly  
+- Breaks root effects  
+- Mobility runes may empower next shot or reduce cooldown
+
+Core survival skill.
+
+---
+
+## 🎯 5. Focused Aim  
+*Single-shot empowerment.*
+
+- +Crit chance for next attack  
 - Consumes 5 Focus  
-- Synergy: SHAR → increased armor penetration  
-- Synergy: VAR → heavy crit damage  
+- Precision runes may increase armour interaction or crit scaling
 
-This converts Hunter into a deadly burst machine.
+Used for burst windows and high-value hits.
 
 ---
 
-## 🎇 6. **Storm Volley**  
-*Signature Tier 1 skill – multi-shot attack*
+## 🌩️ 6. Storm Volley  
+*Signature Tier 1 skill – rapid multi-shot.*
 
-Fires 3 arrows in quick succession.
-
+- Fires 3 arrows in quick succession  
 - Each arrow deals physical damage  
-- Chance to apply elemental effects based on runes  
-- Synergy examples:  
-  - **EL** → lightning-charged arrows  
-  - **RA** → burning arrows  
-  - **SHAR** → piercing all enemies in a line  
-  - **ETH** → faster release, reduced global cooldown  
+- Elemental runes may add fire, frost, lightning or bleed flavour  
+- Precision runes may allow piercing through targets  
 
-This is the heart of Hunter’s offensive identity.
+A flexible offensive skill with high synergy potential.
 
 ---
 
-# ✨ Level 5 Class Buff – **Hunter’s Instinct**  
-*Long-duration buff – precision & agility boost*
+# ✨ Level 5 Buff — Hunter’s Instinct  
+*Long-duration precision and awareness buff.*
 
-Unlocked at Level 5.
-
-**Base effects (1 hour):**
-- +5% movement speed  
+### **Base Effects (1 hour):**
+- +5% movement speed (non-combat only)  
 - +2% crit chance  
-- +increased tracking range (PvE only – detects hidden enemies sooner)
+- Increased tracking range (PvE utility)
 
-**Rune Synergy:**  
-- **ETH** → +7% movement speed  
-- **SHAR** → +4% crit chance  
-- **VAEL** → +DoT potency  
-- **ZYN** → buff lasts 90 minutes  
+### **Rune Category Synergies:**
+- Mobility → higher movement boost  
+- Precision → stronger crit bonus  
+- Nature → enhanced bleed damage  
+- Duration → extended buff length  
 
 No cooldown; can be refreshed anytime.
 
 ---
 
-# 🛤 Evolution Path (Level 10 → Tier 2)
-Hunter can evolve into:
+# 🛤 Tier 2 Evolution (Level 10)
 
-- **Hunter + Rogue → Assassin Ranger** (burst + poison + stealth)  
-- **Hunter + Priest → Spirit Ranger** (hybrid ranged support)  
-- **Hunter + Mage → Arcane Archer** (elemental arrows + magic shots)  
-- **Hunter + Warrior → Warden** (tank-ranger hybrid, traps + protection)
+Hunters combine with another Tier 1 class to form powerful hybrids:
 
-Each path drastically changes playstyle and runic preferences.
+### **Hunter + Rogue → Assassin Ranger**  
+Stealth, poison, ambush, high-burst melee/ranged hybrid.
+
+### **Hunter + Priest → Spirit Ranger**  
+Spirit arrows, minor healing, nature wisdom channeling.
+
+### **Hunter + Warrior → Warden**  
+Defensive ranger, reinforced traps, beast companion themes.
+
+### **Hunter + Mage → Druid**
+Nature magic, bleed/poison empowerment, shapeshift-like channeling.
 
 ---
 
 # 🌲 Hunter Fantasy – “How It Feels to Play”
 Playing Hunter feels like:
 
-- predicting enemy movements,  
-- striking from afar with lethal precision,  
-- kiting enemies effortlessly,  
-- using terrain and traps tactically,  
-- weaving runic elemental arrows into every shot,  
-- feeling like a ghost in the woods — impossible to catch, deadly to ignore.
+- striking from unreachable distance,  
+- reading the environment like a predator,  
+- weaving bleeds, traps and elemental arrows,  
+- dancing through terrain with flawless kiting,  
+- outsmarting enemies before they ever touch you,  
+- becoming the silent storm of the wilderness.
 
-A master of distance.  
-A predator.  
-A protector of nature and civilization alike.
+A ghost in the forest.  
+A blade of wind.  
+A hunter born of instinct and skill.
 
 ---
-
