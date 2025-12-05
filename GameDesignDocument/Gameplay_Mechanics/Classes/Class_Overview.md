@@ -1,133 +1,212 @@
 # Class Overview  
 ### Echo of the Seven – Core Class System (Tier 1 → Tier 4)
 
-Echo of the Seven offers a flexible, progression-driven class system built around **five base classes**.  
-Each class begins with its own identity, combat style and six core abilities, but none of them are “locked in forever”.  
-At level milestones, classes evolve, merge and transform into **powerful hybrid archetypes**, allowing players to shape their hero in unique directions.
+Echo of the Seven features a flexible and deeply customizable class system built around **five base classes**.  
+Each hero begins with a clear identity and playstyle, but every major milestone transforms that identity into something new.  
+
+Classes evolve, merge and specialize across four tiers, allowing players to shape their character through:
+
+- class combinations,  
+- rune mastery,  
+- divine alignment,  
+- racial affinity,  
+- personal playstyle choices.
+
+This creates a system where **every build can feel unique**.
 
 ---
 
-## 🟦 The Five Base Classes (Tier 1)
-Every new character begins by choosing one of the five primary archetypes:
+# 🟦 Tier 1 – Base Classes (Levels 1–10)
 
-- **Warrior** – frontline fighter, defense, strength, close-range combat  
-- **Priest** – healer, support, holy magic, blessings  
-- **Mage** – ranged caster, elemental magic, control  
-- **Rogue** – assassin, stealth, mobility, damage-over-time  
-- **Hunter** – ranged physical dps, traps, nature, precision  
+Every new character begins with one of the five primary archetypes:
 
-These five form the foundation of all future class evolutions.
+- **Warrior** – frontline fighter, discipline, physical force  
+- **Priest** – healer/support, holy or spiritual arts  
+- **Mage** – elemental magic, arcane power, battlefield control  
+- **Rogue** – stealth, poisons, mobility, precision killing  
+- **Hunter** – ranged physical DPS, traps, nature instincts, positioning
 
-Each class starts with:
-- **6 core abilities**,  
-- a unique combat role,  
-- distinct synergy with races, runes, and divine domains.
+Each Tier 1 class includes:
+
+- 6 foundational abilities  
+- 1 long-duration class buff (unlocked at level 5)  
+- A distinct combat role and difficulty curve  
+- Clear identity and synergy with other classes
+
+These serve as the **building blocks** of later evolutions.
 
 ---
 
-## 🟩 Level 10 – Class Evolutions (Tier 2)
-At level 10, players unlock the first major milestone:  
-**Class Evolutions**, created by merging traits from two Tier 1 classes.
+# 🟩 Tier 2 – Class Evolutions (Level 10)
 
-Examples:
+At level 10, the player unlocks their first **Class Evolution** by combining their primary class with one secondary Tier 1 class.
+
+Each combination produces one unique Tier 2 class.
+
+### Current Tier 2 combinations:
+
 - **Warrior + Priest → Paladin**  
-- **Rogue + Priest → Shaman**  
-- **Mage + Rogue → Spellblade**  
+- **Warrior + Rogue → Berserker**  
 - **Warrior + Mage → Battlemage**  
-- **Mage + Priest → Oracle**  
-- **Warrior + Rogue → Berserker**
+- **Warrior + Hunter → Warden**
 
-These evolutions unlock new abilities, new passive bonuses and set each character on a long-term path.
+- **Rogue + Priest → Shaman**  
+- **Rogue + Mage → Spellblade**  
+- **Rogue + Hunter → Assassin Ranger**
 
----
+- **Priest + Mage → Oracle**  
+- **Priest + Hunter → Spirit Ranger**
 
-## 🟨 Level 30 – Advanced Mutations (Tier 3)
-At level 30, classes unlock a second transformative stage called **Advanced Mutations**.
+- **Mage + Hunter → Druid**
 
-These mutations:
-- heavily alter 1–2 core abilities,  
-- specialize the playstyle,  
-- unlock deeper synergy with runes,  
-- bring the first *domain-aligned bonuses* depending on the deity the player follows.
+Each Tier 2 class gains:
 
-Example idea:
-- A Shaman who follows **Luminara** gains radiant healing to his spirit abilities.  
-- A Berserker who follows **Ignovar** gains fire-charged rage bursts.  
-- An Oracle who follows **Archivion** gains echo effects on spells.
+- 6 new core abilities (replacing or enhancing T1 kit)  
+- a unique class mechanic or resource  
+- new playstyle-defining passives  
+- deeper synergy with rune categories
 
----
-
-## 🟥 Level 50 – Apex Ascension (Tier 4)
-At level 50, every class reaches its **Apex Form**.  
-This is the final evolution, a culmination of:
-
-- chosen class path,  
-- selected runes,  
-- race bonuses,  
-- mutations,  
-- divine alignment.
-
-The player’s final form can be **radically different** even within the same class—  
-for example, an Orc Priest → Paladin → Shadow-bound Paladin aligned with Aerendel, gaining extreme CC and dark-light hybrid magic.
-
-This makes every endgame build personal, unique, and narrative-driven.
+Tier 2 is where **build fantasy truly begins**.
 
 ---
 
-## ⚔ Class Synergy System
-Synergy exists at three levels:
+# 🟨 Tier 3 – Advanced Mutations (Level 30)
 
-### 1. **Class-to-Class Synergy**
-Certain class combinations naturally complement each other—  
-for example, a Warrior benefits from a Priest’s buffs, or a Rogue amplifies a Mage’s burst cycles.
+Tier 3 introduces **mutations**, an evolution system where abilities begin to adapt based on:
 
-### 2. **Rune Synergy**
-Each class interacts differently with the **Echo Runic System**.  
-Runes enhance or modify abilities depending on:
-- the runic word,
-- domain origin,
-- class affinity.
+- class identity,  
+- divine alignment,  
+- rune expertise,  
+- the player’s consistent use of certain skills.
 
-### 3. **Divine Synergy**
-Choosing a deity doesn’t restrict the class—  
-**but grants powerful bonuses if aligned thematically**.
+Tier 3 mutations:
+
+- modify 1–3 core abilities,  
+- enhance signature skills,  
+- unlock thematic specializations,  
+- begin bridging the gap toward the final form (Tier 4).
+
+### Examples:
+
+- A Shaman aligned with **Luminara** gains radiant healing through spiritual spells.  
+- A Berserker aligned with **Ignovar** ignites rage abilities with fire bursts.  
+- A Druid aligned with **Seranthis** manifests storm-charged transformations.  
+- An Oracle aligned with **Archivion** gains predictive “echo-casts.”
+
+Tier 3 is where a build becomes **personal and unique**.
+
+---
+
+# 🟥 Tier 4 – Apex Ascension (Level 50)
+
+Tier 4 is the peak of progression — a character’s **Apex Form**.
+
+Apex reflects:
+
+- their base class,  
+- Tier 2 evolution,  
+- Tier 3 mutations,  
+- rune choices,  
+- divine alignment,  
+- race identity,  
+- personal build path.
+
+Two players who chose the same Tier 2 class will still likely end up drastically different by Tier 4.
 
 Examples:
-- A Paladin aligned with **Luminara** gains stronger healing and holy shielding.  
-- A Hunter aligned with **Aerendel** becomes faster, more evasive and gains enhanced movement skills.  
-- A Shaman aligned with **Umbros** can speak to darker spirits and manipulate illusions.
 
-Players remain free to mix unorthodox choices—  
-and sometimes the strongest builds come from unexpected combinations.
+- An **Orc Priest → Paladin** aligned with **Aerendel** becomes a dark-light hybrid CC tank.  
+- An **Elf Mage → Druid** aligned with **Seranthis** becomes a storm-wild shapeshifter.  
+- A **Dwarf Warrior → Battlemage** aligned with **Dul’Mora** becomes a rune-armoured juggernaut.
 
----
-
-## 🧬 Race Interaction
-Races do not restrict class choices, but **each race has a natural affinity** that subtly shapes gameplay:
-
-- Orcs: strength, fury, durability  
-- Elves: precision, mana flow, mobility  
-- Dwarves: metal, crafting, fortitude  
-- Humans: balance, adaptability  
-- Beastfolk: primal instincts, spirit links  
-- Goblins: trickery, scavenging, agility  
-- Fallen/Undead: shadow, curses, resilience to debuffs  
-
-These affinities shine strongest in the **Tier 3 and Tier 4 evolutions**, but never block the player from pursuing any fantasy they want.
+Tier 4 is where gameplay becomes **epic**, thematic and fully build-defining.
 
 ---
 
-## Summary
-Echo of the Seven offers a class system built on:
+# ⚔ Class Synergy System
 
-- freedom,  
-- synergy,  
-- meaningful evolution,  
-- and narrative identity.
+Synergy in Echo of the Seven exists at three layers:
 
-Five base classes open the path,  
-class evolutions shape the journey,  
-and the combination of runes, races and divine domains  
-creates **limitless endgame possibilities**.
+---
 
+## 1. **Class-to-Class Synergy**
+Some pairings naturally complement each other:
 
+- Warrior benefits from Priest’s shielding.  
+- Mage loves Rogue's control windows.  
+- Hunter amplifies Shaman’s nature abilities.  
+- Druid and Warden create excellent AoE control teams.
+
+---
+
+## 2. **Rune Synergy**
+Each class gains specific benefits from rune **categories**, not rune words.
+
+Categories include:
+
+- impact,  
+- frost,  
+- fire,  
+- stealth,  
+- nature,  
+- spirit,  
+- lightning,  
+- protection,  
+- precision,  
+- control.
+
+Players must **discover exact rune words in-game**, maintaining mystery and exploration.
+
+---
+
+## 3. **Divine Synergy**
+Deities don’t restrict your class — they **influence** it.
+
+Alignment grants thematic bonuses:
+
+- **Luminara** – holy healing, radiant empowerment  
+- **Ignovar** – fire, rage, momentum  
+- **Archivion** – echoes, knowledge, arcane  
+- **Seranthis** – storms, change, nature  
+- **Aerendel** – shadow, distance, manipulation  
+- **Dul’Mora** – earth, stone, resilience  
+- **Umbros** – darkness, tricks, forbidden power
+
+The best builds come from creative, sometimes unusual combinations.
+
+---
+
+# 🧬 Race Interaction
+
+Races do NOT give power advantages — but **identity bonuses** that enhance flavour:
+
+- **Orcs:** physical control, grit, stubborn endurance  
+- **Elves:** agility, magical affinity, nature instinct  
+- **Dwarves:** craftsmanship, durability, firearm mastery  
+- **Humans:** flexibility, adaptability, mixed synergy  
+- **Beastfolk:** primal senses, strong Tier 3 mutations  
+- **Goblins:** traps, mechanical tricks, chaotic creativity  
+- **Undead:** resilience to debuffs, shadow affinity, unique resistances  
+
+These bonuses reshape gameplay *subtly*, without breaking balance.
+
+---
+
+# 🧾 Summary
+
+Echo of the Seven’s class system is built on:
+
+- freedom of choice,  
+- meaningful hybridization,  
+- replayability,  
+- narrative identity,  
+- synergistic mechanics.
+
+Five base classes define the beginning.  
+Tier 2 evolution sets the path.  
+Tier 3 mutations shape the style.  
+Tier 4 ascension defines the legend.
+
+**Every player ends with a build that feels like THEIR hero — not a preset template.**
+
+---
