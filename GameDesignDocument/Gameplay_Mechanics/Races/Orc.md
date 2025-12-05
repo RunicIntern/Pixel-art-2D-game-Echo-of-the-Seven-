@@ -1,181 +1,97 @@
-# Orc – Technical Race Overview  
-### Echo of the Seven – Gameplay Mechanics
+# Orc – Racial Traits (Balanced RPG Version)
+*Echo of the Seven – Gameplay Mechanics*
 
-Orcs are fierce, honor-bound warriors shaped by harsh lands and ancient battle traditions. Their culture is built around strength, endurance, unity and the spiritual guidance of ancestral echoes.
+Orcs are disciplined warriors forged by the volcanic plains of Ignovar.  
+They value honour, structure, ritual combat and purpose-driven strength.  
+Their bodies are powerful, their voices commanding, and their culture steeped in martial tradition.
 
-In Echo of the Seven, Orcs are not mindless brutes — they are elite survivalists, disciplined fighters and deeply spiritual people attuned to the primal fury of life.
-
----
-
-# 🧬 1. Racial Fantasy
-
-Orcs embody:
-
-- overwhelming physical strength  
-- resilience in battle  
-- instinctive ferocity  
-- ancestral spirituality  
-- rage that becomes power, not madness  
-- loyalty to clan and honor  
-
-They excel in brutal melee combat, shamanic rituals and wild survival environments.
+These racial traits reflect their physical discipline and battlefield presence without granting raw combat power.
 
 ---
 
-# 🟦 2. Core Racial Traits
+# ⚔️ 1. Combat Flavour Bonus
 
-## ⭐ **Blood of the First War**
-Orcs gain strength the more injured they become.
+### **Controlled Ferocity**
+- **+2% Damage ONLY when hitting enemies above 90% Health**  
+  (Opening Strike bonus)
 
-**Effects:**
-- +1% Physical Damage for every 5% missing HP  
-(max +20%)  
-- +10% resistance to Fear, Charm and Mind Control  
-
-This is the orcish “battle zen”.
-
----
-
-## ⭐ **Ironhide Constitution**
-Their bodies withstand extreme punishment.
-
-**Effects:**
-- +10% max HP  
-- +10% resistance to Bleed  
-- +20% resistance to Fire  
-- +20% resistance to Stun / Knockdown  
+**Design Reason:**
+- Encourages aggressive engagement  
+- Zero influence on boss phases or PvP balance  
+- Represents "first hit impact" — not sustained DPS  
+- The small bonus disappears quickly → flavour only
 
 ---
 
-## ⭐ **Predatory Instinct**
-Orcs read an opponent’s body posture with uncanny speed.
+# 🧭 2. Exploration Bonus
 
-**Effects:**
-- +10% attack speed when fighting melee enemies  
-- +15% increased threat generation (tank synergy)  
-- +10% crit chance vs enemies below 30% HP  
+### **Warbound Endurance**
+Orcs gain:
 
----
+- **-10% stamina drain while sprinting outside combat**  
+- **+10% swim speed**  
+- Less slowdown when walking through mud, ash or shallow water
 
-# 🟧 3. Racial Passives
-
-## ⭐ **Warcry Resonance**
-Orc battle shouts carry supernatural force.
-
-**Effects:**
-- Warcry abilities affect +20% larger radius  
-- +10% buff duration for self-applied fury effects  
-- allies gain +3% damage for 6 sec when hearing your shout (party utility)
+Because orcs are trained to march across hostile terrain.
 
 ---
 
-## ⭐ **Ancestor’s Pulse**
-Orcs feel the echo of past warriors.
+# ⚒️ 3. Utility / Crafting Bonus
 
-**Effects:**
-- when under 20% HP → gain 5% HP regen for 6 sec  
-(cooldown 90 sec)  
-- unique dialogue options with Shaman NPCs  
-- can access “ancestral altars” in wild zones
+### **Battlefield Salvager**
+- **+10% yield when salvaging weapons or armor**  
+- Small chance to recover **rare metal scraps**  
+- Orc-only cosmetic warforged metal variations
 
----
-
-# 🟥 4. Racial Weaknesses
-
-## ⭐ **Runic Disruption Sensitivity**
-Their blood reacts violently with unstable magic.
-
-**Effects:**
-- +15% damage taken from Arcane  
-- +10% rune shatter chance when crafting Air/Chaos runes  
+Useful for weapon-smithing classes and armour crafters.
 
 ---
 
-## ⭐ **Reckless Momentum**
-- -5% dodge chance  
-- +10% stamina consumption during sprinting  
+# 🤝 4. Social / Cultural Bonus
 
-Orcs push through danger, not around it.
+### **Honourbound**
+- +5% Reputation gain with warrior clans and martial factions  
+- Orcs receive unique salute animations from guard NPCs  
+- Special tribe-based dialogue options in Ignovar
 
----
-
-# 🟩 5. Class Synergies
-
-### ⭐ PERFECT SYNERGIES:
-- **Warrior**  
-- **Berserker**  
-- **Shaman**  
-- **Battlemage (fire/earth focus)**  
-
-### 👍 GOOD:
-- Hunter (Beast-tracker styles)  
-- Paladin (battle discipline + fury control)  
-
-### 👎 WEAK:
-- Rogue  
-- Oracle  
-- Arcane Archer  
+Promotes roleplay without altering mechanics.
 
 ---
 
-# 🟪 6. Runic Synergies
+# 🧬 5. Narrative Identity Bonus (Non-Combat Mental Trait)
 
-Orcs resonate strongly with:
+### **Iron Will**
+Orcs are known for mental fortitude.
 
-### ✔ **Fire Runes**
-- IGN  
-- RATH  
-
-### ✔ **Blood / Fury Runes**
-- KOR  
-- RAL  
-
-### ✔ **Earth Runes**
-- GROM  
-- TOR  
-
-**Effects:**
-- +15% bonus damage from fury-based rune words  
-- -10% shatter chance on strength-element runes  
-- +5% HP regeneration in volcanic or war-scarred zones  
+They gain:
+- Reduced *visual* stun/fear animation duration (~5%)  
+- Immune to low-level intimidation attempts by NPCs  
+- No PvP/PvE mechanical advantage — purely expressive
 
 ---
 
-# 🟫 7. Regional Synergy
+# 🔥 Cosmetic Subclan Variants (Optional)
 
-Orcs excel in:
-- deserts  
-- volcanic plains  
-- tundra  
-- battlefields  
-- wildlands  
+- **Ashborn:** volcanic tattoos, ember glow eyes  
+- **Ironjaw Clan:** metal jaw plates and heavy armour silhouettes  
+- **Stormfang Tribe:** lightning scars and ritual piercings  
+- **Blood oath Warriors:** crimson markings, ceremonial shaved heads  
 
-Struggle in:
-- arcane-heavy zones  
-- floating islands  
-- disciplined human metropolises  
-- frozen magic sanctuaries  
+No stat differences — only visual identity.
 
 ---
 
-# 🟨 8. Starting Zone
+# Summary
 
-### **The Red Crag Uplands**
-A harsh volcanic plateau where orcs learn:
+Orcs feel:
 
-- survival  
-- hunting  
-- fury management  
-- ancestral communion  
-- brutal melee combat  
-- early shamanic rituals  
+- strong  
+- disciplined  
+- honour-driven  
+- relentless in battle  
+- harsh but noble  
+- forged by the volcanic flames of Ignovar  
 
----
+Their bonuses support exploration, salvaging, and powerful battlefield presence without impacting combat balance.
 
-# 🧩 Summary
-
-Orcs are powerful frontline fighters infused with battle fury and ancestral spirit.  
-They reward aggressive play, risk-taking and melee dominance while maintaining deep cultural ties to echo magic and survival lore.
-
-They are the embodiment of **controlled chaos and martial honor**.
-
+**“Strength with purpose. Honour in all things.”**
