@@ -1,198 +1,99 @@
-# Beastfolk (Bestial) – Technical Race Overview  
-### Echo of the Seven – Gameplay Mechanics
+# Beastborn – Racial Traits (Balanced RPG Version)
+*Echo of the Seven – Gameplay Mechanics*
 
-Beastfolk, commonly called Bestials, are primal humanoids with strong animalistic traits — feline, lupine, reptilian or ursine depending on clan lineage.  
-Their bodies are a perfect fusion of muscle, instinct and natural magic, shaped by the wild regions they inhabit.
+Beastborn are hybrid tribes shaped by instinct, territory and the wild power of the Domain of Change.  
+They embody primal senses, swift reactions and keen awareness of their environment.
 
-Bestials are fierce hunters, masters of mobility, and dominant predators who fight with instinctive precision rather than refined technique.
-
----
-
-# 🧬 1. Racial Fantasy
-
-Bestials embody:
-
-- raw physical power  
-- heightened senses  
-- instinct-driven combat  
-- agility and lethal speed  
-- deep harmony with primal nature  
-- pack mentality  
-
-They excel in hit-and-run tactics, bleeding effects, mobility, and survival.
+Although their appearance varies (wolfborn, bearfolk, felines, avians, lizardkin),  
+all Beastborn share a common set of racial traits representing their deep connection to nature.
 
 ---
 
-# 🟦 2. Core Racial Traits
+# ⚔️ 1. Combat Flavour Bonus
 
-## ⭐ **Feral Instinct**
-Bestials react to danger before they consciously register it.
+### **Predator’s Precision**
+- **+2% Critical Chance on attacks made from behind (rear attacks)**  
+- Applies to melee, ranged and unarmed strikes  
+- Does *not* apply to spells or AoE abilities
 
-**Effects:**
-- +15% Dodge Chance for the first 3 seconds of combat  
-- +10% movement speed while in combat  
-- immune to “Surprised” status  
-
----
-
-## ⭐ **Predator’s Physique**
-Their bodies are built for explosive motion.
-
-**Effects:**
-- +10% melee damage  
-- +20% bleed chance on unarmed / claw / dagger attacks  
-- +10% jump height  
-- +5% stamina regen  
+**Why this is balanced:**
+- Requires positioning → NOT always active  
+- Rewards skilled players without buffing raw DPS  
+- Perfect fantasy for hunters, rogues, shamans, beast warriors
 
 ---
 
-## ⭐ **Primal Senses**
-Bestials track prey through sound, smell and movement.
+# 🧭 2. Exploration Bonus
 
-**Effects:**
-- +40% detection of hidden enemies  
-- can track wounded enemies more easily  
-- +15% accuracy with thrown weapons  
-- unique tracking dialogue options  
+### **Wild Instincts**
+Beastborn gain:
 
----
+- **+15% Tracking Range**  
+  (monsters, footprints, scent trails, hidden caches)  
+- **Reduced noise** when walking or crouching  
+- **+10% climb speed** on vines, roots and natural surfaces
 
-# 🟧 3. Racial Passives
-
-## ⭐ **Pack Resilience**
-When in a party:
-- +3% damage for each ally within 10m  
-(max +12%)  
-- +5% shared healing received  
-
-Perfect for melee groups and coordinated raids.
+This reinforces the “hunter of the wilds” identity.
 
 ---
 
-## ⭐ **Hunter’s Rhythm**
-Repeated attacks against the same enemy increase damage.
+# ⚒️ 3. Utility / Gathering Bonus
 
-**Effects:**
-- +2% damage per consecutive hit  
-(Stacks up to 6 times → +12%)  
-Stacks fall off when switching targets.
-
----
-
-## ⭐ **Beastial Reflexes**
-- -10% fall damage  
-- +15% climbing speed  
-- +20% movement speed while crouching  
-- silent landings  
+### **Primal Forager**
+- **+10% yield when gathering natural resources**  
+  (herbs, pelts, hides, feathers, bones, fungi)  
+- Small chance to find **rare natural materials**  
+  (roleplay value, no direct gameplay advantage)
 
 ---
 
-# 🟥 4. Racial Weaknesses
+# 🤝 4. Social / Cultural Bonus
 
-## ⭐ **Low Magical Affinity**
-Their primal bodies struggle with complex spellcasting.
+### **Tribal Kinship**
+Beastborn receive:
 
-**Effects:**
-- -10% mana regeneration  
-- -5% potency of arcane and light spells  
-- increased rune shatter chance for wind/light runes  
-
----
-
-## ⭐ **Blood Frenzy Vulnerability**
-Their aggression makes them easier to provoke.
-
-**Effects:**
-- +10% damage taken when under Fear, Taunt, or Confuse  
-- difficult to maintain stealth when bleeding  
+- **+5% reputation gain** with druidic, shamanic and wild clans  
+- Access to unique tribal cosmetics  
+- Unique emotes/animations (sniff, growl, howl)  
+- Special dialogue options with nature-aligned NPCs
 
 ---
 
-# 🟩 5. Class Synergies
+# 🧬 5. Narrative Identity / Non-Combat Sense Bonus
 
-### ⭐ PERFECT:
-- Rogue → Assassin, Bladedancer  
-- Hunter → Warden, Beastmaster  
-- Warrior → Berserker  
-- Spirit Ranger  
-- Shaman (primal paths)  
+### **Predator Sense**
+- Slight screen highlight for nearby hostile creatures  
+  *(NOT a detection buff — purely visual ambience)*  
+- Faint auditory cues for hidden beasts or approaching predators
 
-### 👍 GOOD:
-- Battlemage (fire/earth variants)  
-- Oracle (instinctive insight)  
-
-### 👎 WEAK:
-- Mage  
-- Paladin  
-- Priest  
-
-Magic and strict discipline conflict with their nature.
+Makes Beastborn feel alive and instinct-driven without affecting combat stats.
 
 ---
 
-# 🟪 6. Runic Synergies
+# 🟫 Variant Flavour (Optional Cosmetic Tags)
+To emphasize sub-races:
 
-Bestials resonate with:
+- **Wolfborn:** howl emote, grey colour palettes  
+- **Bearfolk:** heavier animations, deeper roar emote  
+- **Feline tribes:** faster idle sways, clawed casting animation  
+- **Avians:** wider jump arc (visual only)  
+- **Lizardkin:** unique swim animation and dripping footsteps
 
-### ✔ **Blood / Feral Runes**
-- KOR  
-- RAL  
-
-### ✔ **Nature / Life Runes**
-- VAEL  
-- SER  
-
-### ✔ **Earth Runes**
-- GROM  
-
-**Effects:**
-- +20% bleed potency  
-- -15% shatter chance for nature rune words  
-- +10% healing from wild terrain  
+None of these change gameplay balance — only visuals and roleplay.
 
 ---
 
-# 🟫 7. Regional Synergy
+# Summary
 
-Bestials excel in:
+Beastborn feel:
 
-- jungles  
-- plains  
-- deserts  
-- tundra  
-- deep forests  
-- beast-hunting territories  
+- primal  
+- instinctive  
+- territorial  
+- swift and aware  
+- deeply connected to nature  
 
-Struggle in:
+They gain bonuses that support exploration, hunting, stealth and survival —  
+without giving any advantage in high-end combat.
 
-- cities  
-- underground regions  
-- holy zones  
-- echo-distorted ruins  
-
----
-
-# 🟨 8. Starting Zone
-
-### **The Wildcrest Expanse**
-A vast primal wilderness shaped by cliffs, forests and predator-infested valleys.
-
-Tutorial teaches:
-
-- tracking  
-- ambush tactics  
-- bleed mechanics  
-- stamina-based mobility  
-- pack synergy  
-- prey/hunter environmental gameplay  
-
----
-
-# 🧩 Summary
-
-Bestials are instinctive, fast and ferociously powerful predators who thrive in close-range combat, bleeding builds and high-mobility playstyles.
-
-They sacrifice magical ability for primal force, making them ideal for aggressive melee classes and stealth hunters.
-
-**“The wild does not forgive. But it teaches.”**
-
+**“Trust your claws. Trust your heartbeat. Trust the wild.”**
