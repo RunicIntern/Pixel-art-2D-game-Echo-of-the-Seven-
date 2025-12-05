@@ -219,12 +219,8 @@ Spirit trickster, totems, ancestral power, spirit movement.
 ### 🔮 Rogue + Mage → **Spellblade**  
 Hybrid melee-magic duelist with illusions, rifts and imbued strikes.
 
-### ⚔️ Rogue + Warrior → **Duelist / Berserker Variant**  
+### ⚔️ Rogue + Warrior → **Berserker**  
 Agile melee fighter using ripostes, momentum and counterattacks.
-
-(If both names are used in your universe, pick one; “Duelist” is cleaner, but “Berserker” matches your earlier design.)
-
-Each path heavily alters the Rogue’s toolkit.
 
 ---
 
