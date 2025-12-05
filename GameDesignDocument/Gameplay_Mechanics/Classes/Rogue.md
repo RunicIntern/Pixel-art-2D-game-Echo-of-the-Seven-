@@ -1,227 +1,183 @@
 # Rogue  
 ### Tier 1 Base Class – Echo of the Seven
 
-The Rogue is the silent blade in the dark — unseen, unpredictable, and deadly.  
-Masters of stealth, poisons, critical strikes and battlefield manipulation, Rogues excel at eliminating key targets, reducing enemy defenses and creating chaos in enemy lines.
-
-In Echo of the Seven, the Rogue blends agility, shadowcraft and trickery with the Echo Runic System to become a lethal assassin or an evasive skirmisher.
+Rogues are masters of precision strikes, stealth and opportunism.  
+They excel at attacking from the shadows, exploiting weak points and controlling fights through poisons, debuffs and tricks.
 
 ---
 
-## 🎭 Class Identity  
-**Combat Role:** Melee DPS / Assassin / Debuffer  
-**Difficulty:** ★★★★★  
-**Resource:** Edge (built by attacks, consumed by finishers)  
-**Armor Type:** Leather / Shadow Cloth  
-**Primary Attributes:** Agility, Precision, Cunning
+# 🎯 Class Identity  
+**Combat Role:** Melee / Hybrid DPS / Control / Utility  
+**Difficulty:** ★★★★☆  
+**Resource:** Energy (fast-regenerating) + Combo Points  
+**Armor:** Leather / Light  
+**Primary Attributes:** Agility, Cunning, Precision
 
 ---
 
-## 🧬 Lore  
-Rogues live between shadow and survival.  
-Some work as scouts, thieves or assassins; others serve kingdoms as spies or covert agents.  
-A Rogue’s connection to magic is subtle — not arcane, but instinctual:
+# 🧬 Lore & Theme  
 
-- They manipulate **shadows (Umbros)** to hide or confuse.  
-- They harness **chaos runes (Seranthis)** for unpredictable attacks.  
-- They empower blades with **SHAR** to pierce armor.  
-- They use **ETH** for mobility and fast repositioning.
+Rogues are:
 
-Rogues are not inherently evil — they are simply the invisible force that shapes events from the shadows.
+- thieves, spies, assassins, scouts and infiltrators,  
+- operating where honourable methods fail,  
+- relying on timing, positioning and information.
 
----
+They resonate thematically with:
 
-## 🩸 Strengths & Weaknesses
+- shadows and misdirection,  
+- poisons and slow killing,  
+- precision and critical hits,  
+- traps and sabotage.
 
-### ✔ Strengths  
-- Massive burst damage  
-- Best stealth in the game  
-- Strong bleeds, poisons and armor breaks  
-- Extremely high mobility and evasion  
-- Synergy with shadow and chaos runes  
-
-### ✘ Weaknesses  
-- Squishy  
-- Vulnerable to AoEs  
-- High skill ceiling  
-- Requires positioning + timing  
-- Weak against heavy armor without runes  
+They are as dangerous in alleys and courts as on a battlefield.
 
 ---
 
-## 🌀 Synergy With Runes  
-Rogues resonate with sharp, chaotic and shadow-infused runes:
+# 🩸 Strengths & Weaknesses
 
-- **SHAR** – armor penetration, blade mastery  
-- **UMB** – stealth, illusions, shadow damage  
-- **TYR** – bleeds and DoT enhancement  
-- **ETH** – mobility and dodging  
-- **SER** – chaos procs  
-- **VAR** – increased crit power  
+## ✔ Strengths  
+- Very high single-target burst (with setup)  
+- Strong backstab/positional gameplay  
+- Access to stealth and disengage tools  
+- Poisons and debuffs  
+- Excellent solo and small party class  
 
-Examples:  
-- SHAR + VAR → fatal strike burst  
-- UMB + ZYN → extended stealth  
-- TYR + VAEL → toxic bleeds that scale with targets’ HP  
-- SER + EL → lightning-chaos hybrid stuns  
+## ✘ Weaknesses  
+- Squishy in direct front-line fights  
+- Relies on positioning and timing  
+- Weak AoE at Tier 1  
+- Vulnerable when caught without cooldowns  
 
 ---
 
-## 🧬 Best Race Synergies  
-Rogue fits nearly every race, but shines especially with:
+# 🌀 Rune Synergy (Category-Based)
 
-### ⭐ **Goblins**  
-Natural tricksters — best mobility, best poison trap builds.
+Rogues benefit from runes aligned with:
 
-### ⭐ **Elves**  
-High precision and speed → insane crit chains.
+### • **Shadow / Stealth**
+Improved stealth uptime, better engage/disengage windows.
 
-### ⭐ **Humans**  
-Very flexible for hybrid evolutions (Spellblade, Assassin Ranger).
+### • **Poison / Bleed**
+Stronger DoTs, extended poison duration, stacking effects.
 
-### ⭐ **Beastfolk (feline / wolf)**  
-Enhanced agility → top-tier damage and dodging.
+### • **Precision / Crit**
+Higher crit rates, backstab amplification, finisher strength.
 
-### ⭐ **Fallen/Undead**  
-Perfect synergy with Umbros → shadow assassin builds.
+### • **Control / Debuff**
+Slows, blinds, movement impairment, small CC boosts.
 
 ---
 
 # 📘 Tier 1 Skill Kit (Levels 1–10)
 
-Rogue begins with **6 lethal abilities** shaping their identity as a shadow damage dealer.
+---
+
+## 🗡️ 1. Backstab  
+*Positional melee strike.*
+
+- Deals increased damage when used from behind  
+- Generates bonus Combo Points on a successful back attack  
+- Scales with Agility  
+
+Primary high-value opener.
 
 ---
 
-## 🗡 1. **Backstab**  
-*High-damage melee attack – bonus from behind*
+## ☠️ 2. Poisoned Blade  
+*DoT enabling attack.*
 
-- Deals double damage from behind  
-- Generates 2 Edge  
-- Synergy: SHAR → bonus armor penetration  
+- Adds a poison effect to the next few weapon hits  
+- Deals damage over time  
+- Poison-aligned runes may enhance duration or stacking  
 
-A core assassination tool.
-
----
-
-## ☠️ 2. **Toxic Puncture**  
-*Poison + bleed hybrid attack*
-
-- Inflicts a 5-second poison  
-- Applies a stacking bleed  
-- Synergy: TYR → longer bleed  
-- Synergy: SER → chance to “infect” nearby enemies  
-
-Excellent against tanks and bosses.
+Foundational synergy for sustained pressure.
 
 ---
 
-## 🌫 3. **Shadow Fade**  
-*Stealth ability*
+## 🥷 3. Shadowstep / Ambush Step  
+*Engage tool.*
 
-- Enter stealth for 6 seconds  
-- Next attack deals +150% damage  
-- Synergy: UMB → stealth lasts longer  
-- Synergy: ZYN → stealth doesn’t break on movement  
+- Quickly steps behind or to the side of the target  
+- Briefly increases dodge chance after use  
+- Shadow/mobility runes may reduce cooldown  
 
-The Rogue’s identity skill.
-
----
-
-## 🌀 4. **Blade Dance**  
-*Short-range spinning attack*
-
-- Hits all enemies in 3m radius  
-- Applies minor bleed  
-- Synergy: SHAR → pierces armor  
-- Synergy: EL → electrified blades  
-
-Best used for clearing weak mobs or punishing grouped enemies.
+Key tool for positioning and surprise attacks.
 
 ---
 
-## ⚡ 5. **Evasive Roll**  
-*Movement / escape skill*
+## 💨 4. Smoke Veil  
+*Escape / Control tool.*
 
-- Dodge roll 8 meters  
-- Grants 1 second of immunity to projectiles  
-- Synergy: ETH → reduced cooldown  
-- Synergy: AEL → blink-roll variant  
+- Drops a small smoke cloud  
+- Briefly reduces enemy vision inside the area (visual effect)  
+- Slightly reduces ranged accuracy of enemies shooting in  
 
-Pivotal for survival.
-
----
-
-## 💥 6. **Executioner’s Mark**  
-*Signature Tier 1 finisher*
-
-Marks a target for death:
-
-- Target takes +15% increased damage from the Rogue  
-- Rogue’s next attack consumes all Edge for huge bonus dmg  
-- Rune synergies:  
-  - **VAR → ultra-crit finisher**  
-  - **SHAR → armor ignored**  
-  - **UMB → shadow explosion on kill**  
-  - **TYR → bleed eruption**  
-
-Defines Rogue’s burst windows.
+Great for disengaging or mitigating pressure.
 
 ---
 
-# ✨ Level 5 Class Buff – **Veil of the Whisperblade**  
-*Long-duration buff – stealth & precision boost*
+## 🩸 5. Eviscerate  
+*Combo Point finisher.*
 
-Unlocked at Level 5.
+- Consumes Combo Points to deal heavy damage  
+- Stronger with more points spent  
+- Precision-oriented runes may improve scaling or crit potential  
 
-**Base effects (1 hour):**
-- +3% crit chance  
-- +10% stealth detection reduction (harder to be seen by enemies)  
-- +5% movement speed in stealth  
-
-**Rune Synergy:**  
-- **UMB** → extended stealth & improved invisibility  
-- **SHAR** → bonus crit damage  
-- **ETH** → increased movement speed  
-- **ZYN** → 90-minute duration  
-- **SER** → stealth attacks may cause micro-chaos effects  
-
-No cooldown; can be refreshed anytime.
+Primary single-target finisher.
 
 ---
 
-# 🛤 Evolution Path (Level 10 → Tier 2)
-Rogue can evolve into:
+## 🪤 6. Tripwire Trap  
+*Utility trap.*
 
-- **Rogue + Priest → Shaman**  
-  *Shadow rituals, spirit manipulation, hybrid support/DoT*
+- When triggered, briefly slows or trips the target  
+- Deals minor damage  
+- Control runes can modestly extend slow duration  
 
-- **Rogue + Hunter → Assassin Ranger**  
-  *Bleeds, poisons, camouflaged ranged dps*
+Tactical control tool against melee enemies.
 
-- **Rogue + Mage → Spellblade**  
-  *Lightning-imbued melee assassin*
+---
 
-- **Rogue + Warrior → Berserker**  
-  *Bloodfury close-range killer with mobility*
+# ✨ Level 5 Buff — Killer’s Focus  
+*Long-duration offensive buff.*
 
-Each evolution grants modified abilities, unique passives and new runic interactions.
+**Base Effects (1 hour):**
+- Slight increase to crit chance  
+- Slight increase to movement speed while stealthed (where applicable)  
+- Slight increase to Combo Point generation rate  
+
+**Rune Category Synergies:**
+- Precision → improved crit bonus  
+- Shadow → better stealth-related movement  
+- Poison/Bleed → small DoT enhancements  
+- Duration → extended buff length  
+
+---
+
+# 🛤 Tier 2 Evolution (Level 10)
+
+Rogue evolves through combinations:
+
+- **Rogue + Hunter → Assassin Ranger** (stealth, ranged pressure, poisons)  
+- **Rogue + Warrior → Duelist** (high-skill melee duelist, counters)  
+- **Rogue + Priest → Shaman** (in your design: spiritual rogue variant, or we can later refine)  
+- **Rogue + Mage → Spelltrickster** (illusions, magical tricks, hybrid control)
 
 ---
 
 # 🕶 Rogue Fantasy – “How It Feels to Play”
-Playing Rogue means:
 
-- striking fast and disappearing,  
-- manipulating shadows,  
-- maintaining bleeds and poisons,  
-- exploiting enemy weaknesses,  
-- outplaying opponents with mobility,  
-- choosing the perfect moment to execute.
+Playing Rogue feels like:
 
-A true predator of the dark.  
-A silent killer.  
-A whisper of death.
+- always looking for the weak spot,  
+- striking when it hurts most,  
+- vanishing before enemies react,  
+- poisoning, tripping and outsmarting opponents,  
+- being the unseen blade that changes the outcome of a fight.
+
+A whisper in the dark.  
+A knife between the ribs.  
+A problem that enemies never see coming.
 
 ---
-
