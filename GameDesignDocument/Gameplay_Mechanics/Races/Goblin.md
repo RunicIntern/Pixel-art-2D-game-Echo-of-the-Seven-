@@ -1,132 +1,109 @@
-# Goblin – Technical Race Overview  
-### Echo of the Seven – Gameplay Mechanics
+# Goblin – Racial Traits (Balanced RPG Version)
+*Echo of the Seven – Gameplay Mechanics*
 
-Goblins are agile, inventive and chaotic survivalists who excel in engineering, scavenging and unpredictable combat tactics.  
-Though small and fragile, their minds work faster than their bodies break.
+Goblins in Aurion are chaotic inventors, explosive engineers, master scavengers and shameless opportunists.  
+They survive anywhere, build everything out of nothing, and treat danger like a puzzle that needs *more gunpowder*.
 
-Goblin gameplay rewards creativity, improvisation and clever exploitation of the environment.
-
----
-
-# 🧬 1. Racial Fantasy
-Goblins are:
-
-- explosive inventors  
-- master scavengers  
-- trap geniuses  
-- unpredictable tricksters  
-- walking machines of improvised chaos  
-
-They thrive anywhere, especially where everything is broken.
+Their racial traits emphasize creativity, unpredictability and gadget-based flavour — without impacting combat balance.
 
 ---
 
-# 🟦 2. Core Racial Traits
+# ⚔️ 1. Combat Flavour Bonus
 
-## **Tinkerer’s Instinct**
-- -20% crafting cost (bombs, gadgets, tools)  
-- +15% success chance when operating ancient machinery  
-- +10% trap disarm speed  
-- +10% trap detection  
+### **Chaotic Ingenuity**
+When using **bombs, grenades, mines or gadgets**:
+- **+2% chance for the device to trigger an additional mini-effect**  
+  (sparks, smoke puff, tiny knockback, cosmetic explosion)
 
----
+**Important:**
+- *Zero additional damage*  
+- *Zero crowd-control power*  
+- Pure cosmetic chaos + fun  
+- Works only on “gadget” category abilities, not spells or weapons
 
-## **Scrap Savvy**
-- +20% loot from salvage nodes  
-- chance to find rare “runic scrap fragments”  
-- can dismantle items for materials (unique racial action)
-
----
-
-## **Toxic Resilience**
-- +20% Poison resistance  
-- +10% Disease resistance  
-- -10% damage from chemical/explosive mishaps  
+This gives Goblins unique *taste* without meta impact.
 
 ---
 
-# 🟧 3. Racial Passives
+# 🧭 2. Exploration Bonus
 
-## **Improvised Engineering**
-- +15% gadget/trap/bomb effectiveness  
-- -20% cooldown  
-- +10% explosion radius  
+### **Scrapyard Survivor**
+- **+15% movement speed in cluttered environments** (ruins, debris piles, junk zones)  
+- **Immune to minor environmental traps** (tiny caltrops, weak snares, broken glass)  
+- Can squeeze through **narrow gaps** other races cannot
 
-## **Unpredictable Footwork**
-- +5% Dodge  
-- +15% movement speed when <30% HP  
-- immune to fear/panic effects  
+Perfect for “goblin-only shortcuts” and puzzle design.
 
 ---
 
-# 🟥 4. Racial Weaknesses
+# ⚒️ 3. Utility / Crafting Bonus
 
-## **Fragile Frame**
-- -5% max HP  
-- -10% physical defense  
-- +10% stagger duration  
+### **Precious Junk**
+Goblins gain:
 
-## **Volatile Crafting**
-- +10% chance for goblin-made explosives to malfunction  
+- **+10% scrap yield** when dismantling ANY item  
+- Small chance to obtain **Unique Goblin Components**  
+  (used in engineering, bombs, gadgets)
 
----
-
-# 🟩 5. Class Synergies
-
-### Perfect:
-- Rogue / Assassin  
-- Hunter → Warden  
-- Battlemage  
-- Arcane Archer  
-
-### Good:
-- Mage  
-- Priest (Tinkarra blessings)
-
-### Poor:
-- Paladin  
-- Oracle  
+Additionally:
+- Crafting bombs or traps takes **5% less time**  
+- Cosmetic variations for Goblin-engineered items (duct tape, pipes, blinking lights)
 
 ---
 
-# 🟪 6. Runic Synergies
+# 🤝 4. Social / Cultural Bonus
 
-## **Mechanic Runes (FER, GRA, KAL)**
-- -15% shatter chance  
-- +15% potency in gadgets/traps  
+### **Grease-Talk**
+Goblins are… persuasive, but in a *questionable* way.
 
-## **Chaos Runes (SHAEL, RIM, VYR)**
-- +10% chaotic effect proc rate  
-- unpredictable upgrades (flavor)
-
----
-
-# 🟫 7. Regional Synergy
-Goblin-friendly zones:
-- scrapyards  
-- caravans  
-- canyon markets  
-- ruins  
-- trade hubs  
-
-Goblin-hostile zones:
-- holy cities  
-- heavily-regulated regions  
-
----
-
-# 🟨 8. Starting Zone
-## **Scrapspire Shanties**
-- run-down but lively goblin city  
-- full of workshops, explosive hazards and black markets  
-- tutorial includes:
+- **5% cheaper repair costs**  
+- Better prices from Goblin merchants  
+- Unique dialogue options involving:
+  - bribery  
   - scavenging  
-  - trap usage  
-  - tinkering  
-  - goblin social chaos  
+  - “creative solutions”  
+
+NOT diplomacy — more like controlled chaos.
 
 ---
 
-# 🧩 Summary
-Goblins are fragile but brilliant, excelling in traps, gadgets and scavenging.  
-They bring a unique, chaotic flavor to gameplay and synergize strongly with engineering-themed builds.
+# 🧬 5. Narrative Identity Bonus (Non-Combat)
+
+### **Explosive Curiosity**
+When inspecting a strange device, chest, relic or runic mechanism:
+
+- The Goblin performs a unique examine animation  
+- Occasionally sparks or fizz appear  
+- Has a **tiny chance** to discover hidden compartments in loot chests  
+  (cosmetic / low-value items only — NO gear advantage)
+
+A pure flavour perk.
+
+---
+
+# 💥 Goblin Subtypes (Cosmetic Only)
+
+- **Boomguts:** carry volatile barrels, soot-black skin  
+- **Tinkertribe:** goggles, tools, cog motifs  
+- **Scrapclaw:** bone tools, scavenger armour  
+- **Smogkin:** toxic green fumes, industrial style
+
+All cosmetic — zero stats.
+
+---
+
+# Summary
+
+Goblins feel:
+
+- clever  
+- chaotic  
+- dangerous in a funny way  
+- inventive  
+- unpredictable  
+- resourceful  
+
+Their racial bonuses amplify creativity, engineering and scavenging —  
+without affecting balance or combat performance.
+
+**“If it explodes — it works!”**
