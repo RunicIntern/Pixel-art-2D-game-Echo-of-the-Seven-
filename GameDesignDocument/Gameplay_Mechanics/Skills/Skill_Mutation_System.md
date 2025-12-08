@@ -203,62 +203,152 @@ When a skill reaches a new tier:
 
 ## 5. Design Patterns for Mutations
 
-To keep the system coherent, designers can follow some patterns:
+To keep the system coherent and easy to reason about, designers can follow these **pattern guidelines** when defining T2–T4 mutations.  
+These are not hard rules, but recommended shapes for most skills.
 
 ### 5.1. Damage Skills
 
-- **T2** – gain a chance to apply a status (burn, bleed, poison, chill).  
-- **T3** – interacting with that status:
-  - spread, ramp, or secondary effect when re-applied.  
-- **T4** – big, often on-kill or on-crit:
-  - explosion,
-  - extra projectile,
-  - empowered “finisher”.
+Typical fantasy: **“basic hit → apply status → status interacts → big payoff”**
+
+- **T2 – Status Introduction**
+  - The skill gains a chance (or guarantee under some condition) to apply a status effect, e.g.:
+    - Burn, Bleed, Poison, Chill, Shock, Mark, Weaken, etc.
+  - The status should:
+    - match the skill’s element/role,
+    - be visible in the UI (icon, visual cue).
+
+- **T3 – Status Interaction / Spread**
+  - The skill now **interacts** with its own status:
+    - spread it to nearby enemies,
+    - ramp its power over time or with repeated hits,
+    - trigger a secondary effect when re-applied.
+  - Example patterns:
+    - “Hitting a burning target increases burn damage.”
+    - “Bleeding targets take extra damage from this skill.”
+    - “Poison jumps to nearby enemies when the target dies.”
+
+- **T4 – High-Impact Payoff**
+  - The skill gains a **strong, visible climax effect**, often:
+    - on-kill,
+    - on-crit,
+    - or when hitting heavily afflicted targets.
+  - Common T4 shapes:
+    - explosion on kill,
+    - extra projectile(s) or chain,
+    - empowered “execute” window,
+    - large AoE conversion.
+
+Damage skills should feel:
+- **reliable** at T1,
+- **interesting** at T2–T3,
+- **spectacular** at T4.
+
+---
 
 ### 5.2. Defensive / Support Skills
 
-- **T2** – add a small secondary benefit:
-  - small heal, shield, resist buff, resource boost.
-- **T3** – share or extend effect to allies:
-  - splash healing,
-  - aura extension,
-  - buff transfer.
-- **T4** – strong clutch behaviour:
-  - big shield on low HP,
-  - group cleanse,
-  - revive-like effect (if allowed).
+Typical fantasy: **“selfish effect → better for you → share with others → emergency button”**
+
+- **T2 – Secondary Benefit**
+  - Add a small, clear extra effect, e.g.:
+    - small self-heal or shield,
+    - resist buff,
+    - resource boost (mana, stamina, focus),
+    - short mitigation window.
+
+- **T3 – Sharing / Extension**
+  - The effect starts to **affect others** or **cover more time/space**:
+    - splash healing,
+    - aura extension,
+    - copying a buff to nearby allies,
+    - increased duration on refreshed applications.
+
+- **T4 – Clutch / “Oh Shit” Behaviour**
+  - The skill becomes a **strong emergency tool** when used at the right time:
+    - big shield or mitigation when target is low HP,
+    - group cleanse or strong debuff removal,
+    - revive-like behaviour (if allowed by game design),
+    - massive temporary buff with a meaningful cooldown.
+
+Support/defensive skills should make players feel like they can **save a fight** when used well, especially at T4.
+
+---
 
 ### 5.3. Mobility Skills
 
-- **T2** – smaller CD on hit / dodge bonus / short buff after movement.
-- **T3** – interaction with terrain or enemies:
-  - leaving behind a trail (fire, poison, slow),
-  - knocking back or marking enemies passed through.
-- **T4** – dramatic effect:
-  - teleport variants,
-  - second activation window,
-  - AoE effect at start or end of movement.
+Typical fantasy: **“basic movement → small bonuses → interaction with space/enemies → stylish, dramatic move”**
+
+- **T2 – Efficiency Buff**
+  - Mobility skill gains minor utility, e.g.:
+    - shorter cooldown on hit or on dodge,
+    - small speed bonus after using the skill,
+    - brief dodge/parry window,
+    - resource gain if used correctly.
+
+- **T3 – Interaction with Terrain or Enemies**
+  - Movement leaves behind or creates **something in the world**:
+    - a trail (fire, poison, slow, frost),
+    - knockback or mark on enemies you pass through,
+    - trap-like effect at starting or ending position.
+
+- **T4 – Dramatic Upgrade**
+  - The skill gets a big, visually clear enhancement:
+    - teleport/cloning variant,
+    - second activation window (double dash, blink return),
+    - large AoE effect at start/end (shockwave, vortex, stun),
+    - strong synergy with statuses already present on enemies.
+
+Mobility skills at T4 should change how players **position and think** in combat, not tylko „+5% speed”.
 
 ---
 
 ## 6. Interaction with Runes (High-Level)
 
-Full rune mechanics are described elsewhere, but the key rules are:
+Full rune mechanics and Tier Sync (T4 Skill + T4 Rune) are described in separate rune documents.  
+This section only defines how **mutations and runes conceptually relate**.
 
-1. **Mutations are intrinsic to the skill**
-   - T1–T4 behaviours are always active once unlocked,
-   - regardless of runes, items or gear.
+### 6.1. Mutations Are Intrinsic
 
-2. **Runes modify or amplify mutations**
-   - e.g. runes can:
-     - increase burn duration from T2,
-     - make T3 spread stronger or faster,
-     - boost T4 explosion radius,
-     - or add “next skill” bonuses after a mutated effect triggers.
+- T1–T4 behaviours are **intrinsic** to the skill.
+- Once unlocked by usage:
+  - they are **always active**,  
+  - regardless of:
+    - gear,
+    - runes,
+    - or other systems.
+- Respeccing runes or items **does not remove** T2–T4 effects.
 
-3. **Synergy, not replacement**
-   - Runes **do not unlock T2–T4**.  
-   - They make already unlocked mutations **hit harder, trigger more often, or create combos with other skills**.
+### 6.2. Runes Modify or Amplify Mutations
+
+Runes interact with mutated skills by **modifying** or **amplifying** existing behaviour.  
+They do **not** define the base logic of the skill.
+
+Examples of what runes can do:
+
+- Increase or reshape T2 status effects:
+  - longer burn duration,
+  - stronger bleed ramp,
+  - more reliable chill application.
+- Enhance T3 interactions:
+  - faster or wider spread,
+  - stronger secondary effects on afflicted targets.
+- Boost T4 payoffs:
+  - larger explosion radius,
+  - extra projectiles on trigger,
+  - stronger execute damage,
+  - “next skill” bonuses after a T4 condition is met (e.g. “after a Combustion explosion, your next spell deals extra damage”).
+
+### 6.3. Synergy, Not Replacement
+
+- Runes **never** unlock T2–T4 tiers.
+  - Only **usage** of the skill does that.
+- Runes **ride on top of** unlocked mutations:
+  - making them hit harder,
+  - trigger more often,
+  - or combo better with other skills.
+- High-tier rune synergy (e.g. **T4 skill + T4 rune → signature effect**) is:
+  - handled in rune-specific documents,
+  - but always respects the core T1–T4 behaviour defined here.
 
 ---
 
@@ -267,48 +357,81 @@ Full rune mechanics are described elsewhere, but the key rules are:
 **Class:** Mage  
 **Role:** Core single-target / small AoE fire spell.
 
-- **Tier 1 – Basic Fireball**
-  - Launch a fire projectile at a target,
-  - deal moderate fire damage on impact.
+This example follows the damage pattern from section 5.1.
 
-- **Tier 2 – Ignite**
-  - Fireball now has a chance to **ignite** enemies:
-    - apply a burning damage-over-time effect.
+### Tier 1 – Basic Fireball (T1)
 
-- **Tier 3 – Spreading Flames**
-  - If an ignited enemy is hit again or the burn naturally ticks:
-    - the burning effect can **spread** to nearby enemies.
+- Launch a fire projectile at a target.
+- Deal moderate fire damage on impact.
+- No status effects yet.
 
-- **Tier 4 – Combustion**
-  - If a burning enemy **dies from Fireball or while burning**:
-    - they **explode**, dealing fire damage around them,
-    - potentially igniting nearby enemies (synergises back into T2/T3).
+### Tier 2 – Ignite (T2)
 
-Rune examples (separate system) can then say:
+- Fireball now has a chance to **ignite** enemies:
+  - applies a burning damage-over-time effect for a short duration.
 
-- `+ cast speed for Fireball`
-- `+ burn duration`
-- `+ explosion radius for burning kills`
-- `next skill deals extra damage after Fireball hits a burning enemy`
+### Tier 3 – Spreading Flames (T3)
 
-without touching the core T1–T4 logic.
+- If an ignited enemy is:
+  - hit again by Fireball, **or**
+  - the burn naturally ticks to its final moments,
+- the burning effect can **spread** to nearby enemies.
+
+This turns Fireball into a **status engine**, not just a single hit.
+
+### Tier 4 – Combustion (T4)
+
+- If a burning enemy:
+  - **dies from Fireball**, or
+  - **dies while burning** from Fireball’s Ignite,
+- they **explode**, dealing fire damage around them.
+- The explosion can also:
+  - ignite nearby enemies,
+  - feeding back into T2/T3 (more burns → more spread → more potential explosions).
+
+Fireball now has a full identity:
+
+- T1 – simple direct hit.  
+- T2 – applies fire status (Burn).  
+- T3 – spreads the fire.  
+- T4 – creates explosive chain reactions.
+
+### 7.1. Rune Examples (High-Level)
+
+Rune effects (defined in rune docs) could do things like:
+
+- `+X% cast speed for Fireball`
+- `+Y% burn duration on Ignite`
+- `+Z% explosion radius or damage for Combustion`
+- `After Fireball hits a burning enemy, your next spell deals extra damage`
+
+Additionally, a **Tier 4 Fire Rune** socketed into a **T4 Fireball**  
+may unlock a **signature Tier Sync effect** (e.g. a periodic triple-fireball barrage)  
+– see `Rune_Synergy_and_Skill_Mastery.md` for those high-end interactions.
 
 ---
 
 ## 8. Summary
 
-The **Skill Mutation System** turns repeated use of a skill into a feeling of:
+The **Skill Mutation System** turns repeated use of a skill into:
 
-- **growth** – the skill becomes more complex and more satisfying,  
-- **identity** – each ability has its own mutation fantasy,  
-- **reward** – players who specialise in a skill unlock powerful, unique behaviour.
+- **growth** – each tier adds new layers of behaviour,  
+- **identity** – damage, support and mobility skills evolve in distinct, thematic ways,  
+- **reward** – players who specialise in a skill unlock powerful, unique behaviour at T4.
 
-T1–T4 mastery is:
+Key properties:
 
-- **per-skill**,  
-- **usage-based**,  
-- and designed to work hand-in-hand with:
-  - runes,
-  - scaling,
-  - and skill tags/types (see separate documents).
+- Mastery (T1–T4) is:
+  - **per-skill**,  
+  - **usage-based**,  
+  - permanent once unlocked.
+
+- Mutations are designed to work hand-in-hand with:
+  - **runes** (amplifiers and Tier Sync effects),  
+  - **scaling systems** (stats, level, gear),  
+  - **skill tags/types** (element, role, delivery method).
+
+Runes, scaling and tags extend what is defined here,  
+but they never replace the core fantasy of a skill’s **own evolution**.
+
 
